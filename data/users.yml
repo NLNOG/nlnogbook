@@ -7,6 +7,7 @@ casdr:
 cybertinus:
   full_name: Tijn Buijs
   country: nl
+  rir_handle: TIJN-RIPE
   companies:
     - coloclue
     - sue
