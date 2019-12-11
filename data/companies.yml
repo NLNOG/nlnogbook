@@ -2,6 +2,7 @@
 bit:
   name: BIT
   asn: 12859
+  site: https://www.bit.nl/
 breedband:
   name: Breedband B.V.
   asn: 5524
@@ -12,18 +13,23 @@ coloclue:
   site: https://coloclue.net
 powerdns:
   name: PowerDNS.COM B.V.
+  site: https://www.powerdns.com/
 tuxis:
   name: Tuxis B.V.
   asn: 197731
+  site: https://tuxis.nl/
 ripencc:
   name: RIPE NCC
   asn: [ 3333, 25152, 197000, 12654 ]
+  site: https://www.ripe.net/
 serverius: 
   name: Serverius B.V.
   asn: 50673
+  site: https://serverius.net/
 speedix:
   name: Speed-IX
   asn: 41441
+  site: https://speed-ix.net/
 sue:
   name: Sue B.V.
   site: https://sue.nl
@@ -41,6 +47,7 @@ a2b:
   site: https://a2b-internet.com
 sinnerg:
   name: SinnerG B.V.
+  site: http://sinnerg.nl/
 phyxia:
   name: Phyxia Networks
   asn: 35627
