@@ -5,6 +5,7 @@ bit:
 breedband:
   name: Breedband B.V.
   asn: 5524
+  site: https://breedband.nl
 coloclue:
   name: Netwerkvereniging ColoClue
   asn: 8283

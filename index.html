@@ -55,7 +55,15 @@
                     for (var comp in user.companies) {
                         var company = companies[user.companies[comp]];
                         if (company) {
-                            companyStr.append(company.name+ '<br />');
+                            var tmpStr = '';
+                            if(company.site) {
+                                tmpStr = '<a href="' + company.site + '" target="_blank">';
+                            }
+                            tmpStr += company.name;
+                            if (company.site) {
+                                tmpStr += '</a>';
+                            }
+                            companyStr.append(tmpStr+ '<br />');
 
                             if (company.asn) {
                                 if(!Array.isArray(company.asn)) {
