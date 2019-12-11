@@ -1,0 +1,72 @@
+<html>
+<head>
+    <title>NLNOGbook</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.4.5/css/flag-icon.min.css">
+</head>
+<body>
+<div class="container">
+    <h1 class="page-header">NLNOGbook</h1>
+    <p>This page was created to keep track of the members in the <a href="https://nlnog.net/" target="_blank">NLNOG</a> community.</p>
+    <p>You can add yourself to the list by creating a Pull Request on <a href="https://github.com/casdr/nlnogbook" target="_blank">GitHub</a></p>
+    <table class="table table-sm table-striped">
+        <thead>
+        <tr>
+            <th>Nick</th>
+            <th>Full name</th>
+            <th>Company</th>
+            <th>Country</th>
+        </tr>
+        </thead>
+        <tbody id="list"></tbody>
+    </table>
+    <hr />
+    <p>Created by <a href="http://reuver.co/~cas">Cas de Reuver</a>. This page is not affiliated with Stichting NLNOG.</p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
+<script>
+    var defaults = {full_name: '', companies: [], country: ''};
+    $(document).ready(function () {
+        $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
+            var companies = jsyaml.load(companies_yml);
+            $.get('data/users.yml?' + (new Date()).getTime(), function (users_yml) {
+                var users = jsyaml.load(users_yml);
+                for (var name in users) {
+                    var newUser = $('<tr />');
+                    var user = users[name];
+                    for (var key in defaults) {
+                        if (!user.hasOwnProperty(key)) {
+                            user[key] = defaults[key];
+                        }
+                    }
+
+                    newUser.append('<td>' + name + '</td>');
+                    newUser.append('<td>' + user.full_name + '</td>');
+
+                    var companyStr = $('<td />');
+                    for (var comp in user.companies) {
+                        var company = companies[user.companies[comp]];
+                        if(company) {
+                            companyStr.append(company.name + ' (<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + company.asn + '&type=aut-num" target="_blank">AS' + company.asn + '</a>)<br />');
+                        } else {
+                            companyStr.append(user.companies[comp] + '<br />');
+                        }
+                    }
+                    newUser.append(companyStr);
+
+                    var flag = $('<td />');
+                    if (user.country) {
+                        flag.append('<span class="flag-icon flag-icon-' + user.country + '" title="' + user.country + '"></span>');
+                    }
+                    newUser.append(flag);
+
+                    $('#list').append(newUser);
+                }
+            });
+        })
+    });
+</script>
+</body>
+</html>
