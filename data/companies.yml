@@ -9,6 +9,7 @@ breedband:
 coloclue:
   name: Netwerkvereniging ColoClue
   asn: 8283
+  site: https://coloclue.net
 powerdns:
   name: PowerDNS.COM B.V.
 tuxis:
