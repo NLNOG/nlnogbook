@@ -26,6 +26,7 @@ speedix:
   asn: 41441
 sue:
   name: Sue B.V.
+  site: https://sue.nl
 meanie:
   name: Meanie
   asn: [31019, 50026, 61385]
