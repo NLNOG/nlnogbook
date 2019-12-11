@@ -77,3 +77,6 @@ cloudvps:
   name: Cloudvps B.V.
   asn: 35470
   site: https://www.cloudvps.nl
+team.blue:  
+  name: Team.blue
+  site: https://www.team.blue
