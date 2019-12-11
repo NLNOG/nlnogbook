@@ -4,13 +4,19 @@ casdr:
   country: nl
   companies:
     - breedband
-jeeves_:
-  full_name: Mark Schouten
+cybertinus:
+  full_name: Tijn Buijs
   country: nl
   companies:
-    - tuxis
+    - coloclue
+    - sue
 Habbie:
   full_name: Peter van Dijk
   country: nl
   companies:
     - powerdns
+jeeves_:
+  full_name: Mark Schouten
+  country: nl
+  companies:
+    - tuxis

@@ -2,8 +2,11 @@
 breedband:
   name: Breedband B.V.
   asn: 5524
+coloclue:
+  name: Netwerkvereniging ColoClue
+  asn: 8283
+powerdns:
+  name: PowerDNS.COM B.V.
 tuxis:
   name: Tuxis B.V.
   asn: 197731
-powerdns:
-  name: PowerDNS.COM B.V.
