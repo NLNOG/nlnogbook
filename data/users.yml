@@ -79,3 +79,5 @@ mv^:
   country: nl
   companies:
     - signet
+    - proserve
+    - cloudvps
