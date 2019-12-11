@@ -62,3 +62,7 @@ signet:
   name: Signet B.V.
   asn: 28878
   site: https://www.signet.nl
+solcon:  
+  name: Solcon Internetdiensten B.V.
+  asn: 12414
+  site: https://www.solcon.nl
