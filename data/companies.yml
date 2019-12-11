@@ -9,6 +9,7 @@ breedband:
 coloclue:
   name: Netwerkvereniging ColoClue
   asn: 8283
+  site: https://coloclue.net
 powerdns:
   name: PowerDNS.COM B.V.
 tuxis:
@@ -25,4 +26,25 @@ speedix:
   asn: 41441
 sue:
   name: Sue B.V.
-
+  site: https://sue.nl
+meanie:
+  name: Meanie
+  asn: [31019, 50026, 61385]
+  site: http://www.meanie.nl
+novoserve:
+  name: Novoserve BV
+  asn: [24875, 21159]
+  site: https://www.novoserve.com
+a2b:
+  name: A2B Internet
+  asn: 51088
+  site: https://a2b-internet.com
+sinnerg:
+  name: SinnerG B.V.
+phyxia:
+  name: Phyxia Networks
+  asn: 35627
+boxedit:
+  name: Boxed IT Ltd.
+  asn: 50156
+  

@@ -69,9 +69,14 @@
                                 if(!Array.isArray(company.asn)) {
                                     company.asn = [company.asn];
                                 }
+                                companyCounter = 0;
                                 for (var asn in company.asn) {
                                     var asn = company.asn[asn];
-                                    asnStr.append('<small><a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + asn + '&type=aut-num" target="_blank">AS' + asn + '</a><br /></small>');
+                                    asnStr.append('<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + asn + '&type=aut-num" target="_blank">AS' + asn + '</a><br />');
+                                    if(companyCounter > 0) {
+                                        companyStr.append('<br>');
+                                    }
+                                    companyCounter++;
                                 }
                             }
                         } else {
