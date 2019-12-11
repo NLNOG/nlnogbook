@@ -60,7 +60,7 @@ newvm:
   site: https://newvm.nl
 signet:  
   name: Signet B.V.
-  asn: [28878, 39700]
+  asn: [28878, 39700, 49685]
   site: https://www.signet.nl
 solcon:  
   name: Solcon Internetdiensten B.V.
