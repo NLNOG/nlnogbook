@@ -53,3 +53,10 @@ MarkS-:
   companies:
     - sinnerg
     - coloclue
+sid3windr:
+  full_name: Tom Laermans
+  rir_handle: TL1020-RIPE
+  country: be
+  companies:
+    - phyxia
+    - boxedit
