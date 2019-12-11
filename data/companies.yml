@@ -27,7 +27,7 @@ sue:
   name: Sue B.V.
 meanie:
   name: Meanie
-  asn: [31019, 61385]
+  asn: [31019, 50026, 61385]
 novoserve:
   name: Novoserve BV
   asn: [24875, 21159]
