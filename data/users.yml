@@ -10,6 +10,11 @@ cybertinus:
   companies:
     - coloclue
     - sue
+Fluor:
+  full_name: Sander Smeenk
+  country: nl
+  companies:
+    - bit
 Habbie:
   full_name: Peter van Dijk
   country: nl
