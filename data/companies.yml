@@ -60,7 +60,7 @@ newvm:
   site: https://newvm.nl
 signet:  
   name: Signet B.V.
-  asn: 28878
+  asn: [28878, 39700]
   site: https://www.signet.nl
 solcon:  
   name: Solcon Internetdiensten B.V.
@@ -73,3 +73,7 @@ proserve:
   name: proserve B.V.
   asn: 21155
   site: https://www.proserve.nl
+cloudvps:  
+  name: Cloudvps B.V.
+  asn: 35470
+  site: https://www.cloudvps.nl
