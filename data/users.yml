@@ -4,7 +4,7 @@ casdr:
   country: nl
   companies:
     - breedband
-cybertinus:
+Cybertinus:
   full_name: Tijn Buijs
   country: nl
   rir_handle: TIJN-RIPE
@@ -27,7 +27,7 @@ Habbie:
   country: nl
   companies:
     - powerdns
-jeeves_:
+Jeeves_:
   full_name: Mark Schouten
   country: nl
   companies:
