@@ -58,3 +58,7 @@ newvm:
   name: NewVM B.V.
   asn: 201401
   site: https://newvm.nl
+signet:  
+  name: Signet B.V.
+  asn: 28878
+  site: https://www.signet.nl
