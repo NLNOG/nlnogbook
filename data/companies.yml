@@ -10,3 +10,6 @@ powerdns:
 tuxis:
   name: Tuxis B.V.
   asn: 197731
+ripencc:
+  name: RIPE NCC
+  asn: [ 3333, 25152, 197000, 12654 ]
