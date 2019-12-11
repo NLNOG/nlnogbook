@@ -2,7 +2,6 @@
 bit:
   name: BIT
   asn: 12859
-  site: https://www.bit.nl/
 breedband:
   name: Breedband B.V.
   asn: 5524
@@ -19,7 +18,6 @@ tuxis:
 ripencc:
   name: RIPE NCC
   asn: [ 3333, 25152, 197000, 12654 ]
-  site: https://www.ripe.net/
 serverius: 
   name: Serverius B.V.
   asn: 50673
@@ -31,11 +29,14 @@ sue:
 meanie:
   name: Meanie
   asn: [31019, 50026, 61385]
+  site: http://www.meanie.nl
 novoserve:
   name: Novoserve BV
   asn: [24875, 21159]
+  site: https://www.novoserve.com
 a2b:
   name: A2B Internet
   asn: 51088
+  site: https://a2b-internet.com
 sinnerg:
   name: SinnerG B.V.
