@@ -88,3 +88,9 @@ teun:
   country: nl
   companies:
     - bit
+marlinc:
+  full_name: Marlin Cremers
+  rir_handle: MC30802-RIPE
+  country: nl
+  companies:
+    - cloudbear

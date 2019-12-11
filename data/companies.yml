@@ -80,3 +80,9 @@ cloudvps:
 team.blue:  
   name: Team.blue
   site: https://www.team.blue
+cloudbear:
+  name: Cloudbear B.V.
+  asn:
+    - 57758
+    - 48105
+  site: https://cloudbear.nl
