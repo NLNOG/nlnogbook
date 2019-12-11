@@ -20,3 +20,9 @@ jeeves_:
   country: nl
   companies:
     - tuxis
+weirdje:
+  full_name: Paul de Weerd
+  country: nl
+  companies:
+    - ripencc
+    - coloclue
