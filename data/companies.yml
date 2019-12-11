@@ -25,4 +25,12 @@ speedix:
   asn: 41441
 sue:
   name: Sue B.V.
-
+meanie:
+  name: Meanie
+  asn: [31019, 61385]
+novoserve:
+  name: Novoserve BV
+  asn: [24875, 21159]
+a2b:
+  name: A2B Internet
+  asn: 51088
