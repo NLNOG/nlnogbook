@@ -47,6 +47,12 @@ meanie:
     - meanie
     - novoserve
     - a2b
+raymonvdm:
+  full_name: Raymon van der Meijden
+  country: nl
+  rir_handle: RVDM88-RIPE
+  companies:
+    - solcon
 MarkS-:
   full_name: Mark Scholten
   country: nl
