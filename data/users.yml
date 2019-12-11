@@ -82,3 +82,9 @@ mv^:
     - proserve
     - cloudvps
     - team.blue
+teun:
+  full_name: Teun Vink
+  rir_handle: TEUN-RIPE
+  country: nl
+  companies:
+    - bit
