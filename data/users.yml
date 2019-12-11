@@ -44,3 +44,9 @@ meanie:
   companies:
     - meanie
     - novoserve
+raymonvdm:
+  full_name: Raymon van der Meijden
+  country: nl
+  rir_handle: RVDM88-RIPE
+  companies:
+    - solcon
