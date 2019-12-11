@@ -1,0 +1,99 @@
+<html>
+<head>
+    <title>NLNOGbûke</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.4.5/css/flag-icon.min.css">
+</head>
+<body>
+<div class="container">
+    <h1 class="page-header">NLNOGbook</h1>
+    <p>Dizze pagina is makke om 'n bytsje by te hâlde wa't de members fan  <a href="https://nlnog.net/" target="_blank">NLNOG</a>
+        binne.</p>
+    <p>Do kist dyself tavoegje troch een pull request oan te meitsje op <a href="https://github.com/casdr/nlnogbook"
+                                                                         target="_blank">GitHub</a></p>
+    <table class="table table-sm table-striped">
+        <thead>
+        <tr>
+            <th>Nick</th>
+            <th>Folledige Namme</th>
+            <th>Bedrieuwsnamme</th>
+            <th>ASN</th>
+            <th>RIR Handle</th>
+            <th>Lân</th>
+        </tr>
+        </thead>
+        <tbody id="list"></tbody>
+    </table>
+    <hr/>
+    <p>Makke troch <a href="http://reuver.co/~cas">Cas de Reuver</a>. Dizze pagina is net ferbûn mei Stichting NLNOG.
+    </p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
+<script>
+    var defaults = {full_name: '', companies: [], country: '', rir_handle: ''};
+    $(document).ready(function () {
+        $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
+            var companies = jsyaml.load(companies_yml);
+            $.get('data/users.yml?' + (new Date()).getTime(), function (users_yml) {
+                var users = jsyaml.load(users_yml);
+                for (var name in users) {
+                    var newUser = $('<tr />');
+                    var user = users[name];
+                    for (var key in defaults) {
+                        if (!user.hasOwnProperty(key)) {
+                            user[key] = defaults[key];
+                        }
+                    }
+
+                    newUser.append('<td>' + name + '</td>');
+                    newUser.append('<td>' + user.full_name + '</td>');
+
+                    var companyStr = $('<td />');
+                    var asnStr = $('<td />');
+                    for (var comp in user.companies) {
+                        var company = companies[user.companies[comp]];
+                        if (company) {
+                            var tmpStr = '';
+                            if(company.site) {
+                                tmpStr = '<a href="' + company.site + '" target="_blank">';
+                            }
+                            tmpStr += company.name;
+                            if (company.site) {
+                                tmpStr += '</a>';
+                            }
+                            companyStr.append(tmpStr+ '<br />');
+
+                            if (company.asn) {
+                                if(!Array.isArray(company.asn)) {
+                                    company.asn = [company.asn];
+                                }
+                                for (var asn in company.asn) {
+                                    var asn = company.asn[asn];
+                                    asnStr.append('<small><a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + asn + '&type=aut-num" target="_blank">AS' + asn + '</a><br /></small>');
+                                }
+                            }
+                        } else {
+                            companyStr.append(user.companies[comp] + '<br />');
+                        }
+                    }
+                    newUser.append(companyStr);
+                    newUser.append(asnStr);
+
+                    newUser.append('<td><a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=ripe&key=' + user.rir_handle + '&type=person" target="_blank">' + user.rir_handle + '</a>');
+
+                    var flag = $('<td />');
+                    if (user.country) {
+                        flag.append('<span class="flag-icon flag-icon-' + user.country + '" title="' + user.country + '"></span>');
+                    }
+                    newUser.append(flag);
+
+                    $('#list').append(newUser);
+                }
+            });
+        })
+    });
+</script>
+</body>
+</html>
