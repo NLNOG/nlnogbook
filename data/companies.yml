@@ -69,3 +69,7 @@ solcon:
 raymon:
   name: Raymon
   asn: 201723
+proserve:  
+  name: proserve B.V.
+  asn: 21155
+  site: https://www.proserve.nl
