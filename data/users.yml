@@ -38,3 +38,9 @@ weirdje:
   companies:
     - ripencc
     - coloclue
+meanie:
+  full_name: Paul Hoogsteder
+  country: nl
+  companies:
+    - meanie
+    - novoserve
