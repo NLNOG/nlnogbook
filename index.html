@@ -38,7 +38,10 @@
             var companies = jsyaml.load(companies_yml);
             $.get('data/users.yml?' + (new Date()).getTime(), function (users_yml) {
                 var users = jsyaml.load(users_yml);
-                for (var name in users) {
+
+                Object.keys(users).sort(function (a, b) {
+                    return a.toLowerCase().localeCompare(b.toLowerCase());
+                }).forEach(function (name) {
                     var newUser = $('<tr />');
                     var user = users[name];
                     for (var key in defaults) {
@@ -56,24 +59,24 @@
                         var company = companies[user.companies[comp]];
                         if (company) {
                             var tmpStr = '';
-                            if(company.site) {
+                            if (company.site) {
                                 tmpStr = '<a href="' + company.site + '" target="_blank">';
                             }
                             tmpStr += company.name;
                             if (company.site) {
                                 tmpStr += '</a>';
                             }
-                            companyStr.append(tmpStr+ '<br />');
+                            companyStr.append(tmpStr + '<br />');
 
                             if (company.asn) {
-                                if(!Array.isArray(company.asn)) {
+                                if (!Array.isArray(company.asn)) {
                                     company.asn = [company.asn];
                                 }
                                 companyCounter = 0;
                                 for (var asn in company.asn) {
                                     var asn = company.asn[asn];
                                     asnStr.append('<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + asn + '&type=aut-num" target="_blank">AS' + asn + '</a><br />');
-                                    if(companyCounter > 0) {
+                                    if (companyCounter > 0) {
                                         companyStr.append('<br />');
                                     }
                                     companyCounter++;
@@ -97,7 +100,7 @@
                     newUser.append(flag);
 
                     $('#list').append(newUser);
-                }
+                });
             });
         })
     });
