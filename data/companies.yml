@@ -2,6 +2,7 @@
 bit:
   name: BIT
   asn: 12859
+  site: https://www.bit.nl/
 breedband:
   name: Breedband B.V.
   asn: 5524
@@ -18,6 +19,7 @@ tuxis:
 ripencc:
   name: RIPE NCC
   asn: [ 3333, 25152, 197000, 12654 ]
+  site: https://www.ripe.net/
 serverius: 
   name: Serverius B.V.
   asn: 50673
