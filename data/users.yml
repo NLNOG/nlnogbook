@@ -74,7 +74,7 @@ jappert:
     - newvm
 mv^:
   full_name: Martin de Vries
-  rir_handle: mv
+  rir_handle: MV
   country: nl
   companies:
     - signet
