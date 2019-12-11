@@ -66,3 +66,9 @@ sid3windr:
   companies:
     - phyxia
     - boxedit
+jappert:
+  full_name: Jasper van Erven Dorens
+  rir_handle: JVED2-RIPE
+  country: nl
+  companies:
+    - newvm
