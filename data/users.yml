@@ -9,3 +9,8 @@ jeeves_:
   country: nl
   companies:
     - tuxis
+Habbie:
+  full_name: Peter van Dijk
+  country: nl
+  companies:
+    - powerdns
