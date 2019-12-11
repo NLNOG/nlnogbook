@@ -53,6 +53,7 @@ raymon:
   rir_handle: RVDM88-RIPE
   companies:
     - solcon
+    - raymon
 MarkS-:
   full_name: Mark Scholten
   country: nl
