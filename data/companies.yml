@@ -58,3 +58,8 @@ newvm:
   name: NewVM B.V.
   asn: 201401
   site: https://newvm.nl
+solcon:  
+  name: Solcon Internetdiensten B.V.
+  asn: 12414
+  site: https://www.solcon.nl
+  
