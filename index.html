@@ -49,7 +49,11 @@
                     for (var comp in user.companies) {
                         var company = companies[user.companies[comp]];
                         if(company) {
-                            companyStr.append(company.name + ' (<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + company.asn + '&type=aut-num" target="_blank">AS' + company.asn + '</a>)<br />');
+                            var tmpStr = company.name;
+                            if (company.asn) {
+                               tmpStr += ' (<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + company.asn + '&type=aut-num" target="_blank">AS' + company.asn + '</a>)';
+                            }
+                            companyStr.append(tmpStr + '<br />');
                         } else {
                             companyStr.append(user.companies[comp] + '<br />');
                         }
