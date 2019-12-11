@@ -8,22 +8,26 @@
 <body>
 <div class="container">
     <h1 class="page-header">NLNOGbook</h1>
-    <p>This page was created to keep track of the members in the <a href="https://nlnog.net/" target="_blank">NLNOG</a> community.</p>
-    <p>You can add yourself to the list by creating a Pull Request on <a href="https://github.com/casdr/nlnogbook" target="_blank">GitHub</a></p>
+    <p>This page was created to keep track of the members in the <a href="https://nlnog.net/" target="_blank">NLNOG</a>
+        community.</p>
+    <p>You can add yourself to the list by creating a Pull Request on <a href="https://github.com/casdr/nlnogbook"
+                                                                         target="_blank">GitHub</a></p>
     <table class="table table-sm table-striped">
         <thead>
         <tr>
             <th>Nick</th>
             <th>Full name</th>
             <th>Company</th>
+            <th>ASN</th>
             <th>RIR Handle</th>
             <th>Country</th>
         </tr>
         </thead>
         <tbody id="list"></tbody>
     </table>
-    <hr />
-    <p>Created by <a href="http://reuver.co/~cas">Cas de Reuver</a>. This page is not affiliated with Stichting NLNOG.</p>
+    <hr/>
+    <p>Created by <a href="http://reuver.co/~cas">Cas de Reuver</a>. This page is not affiliated with Stichting NLNOG.
+    </p>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
@@ -47,19 +51,27 @@
                     newUser.append('<td>' + user.full_name + '</td>');
 
                     var companyStr = $('<td />');
+                    var asnStr = $('<td />');
                     for (var comp in user.companies) {
                         var company = companies[user.companies[comp]];
-                        if(company) {
-                            var tmpStr = company.name;
+                        if (company) {
+                            companyStr.append(company.name+ '<br />');
+
                             if (company.asn) {
-                               tmpStr += ' (<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + company.asn + '&type=aut-num" target="_blank">AS' + company.asn + '</a>)';
+                                if(!Array.isArray(company.asn)) {
+                                    company.asn = [company.asn];
+                                }
+                                for (var asn in company.asn) {
+                                    var asn = company.asn[asn];
+                                    asnStr.append('<small><a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + asn + '&type=aut-num" target="_blank">AS' + asn + '</a><br /></small>');
+                                }
                             }
-                            companyStr.append(tmpStr + '<br />');
                         } else {
                             companyStr.append(user.companies[comp] + '<br />');
                         }
                     }
                     newUser.append(companyStr);
+                    newUser.append(asnStr);
 
                     newUser.append('<td><a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=ripe&key=' + user.rir_handle + '&type=person" target="_blank">' + user.rir_handle + '</a>');
 
