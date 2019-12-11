@@ -32,8 +32,9 @@ jeeves_:
   country: nl
   companies:
     - tuxis
-weirdje:
+WEiRDJE:
   full_name: Paul de Weerd
+  rir_handle: PDW
   country: nl
   companies:
     - ripencc
