@@ -16,6 +16,12 @@ tuxis:
 ripencc:
   name: RIPE NCC
   asn: [ 3333, 25152, 197000, 12654 ]
+serverius: 
+  name: Serverius B.V.
+  asn: 50673
+speedix:
+  name: Speed-IX
+  asn: 41441
 sue:
   name: Sue B.V.
 
