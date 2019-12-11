@@ -9,3 +9,9 @@ jeeves_:
   country: nl
   companies:
     - tuxis
+cybertinus:
+  full_name: Tijn Buijs
+  country: nl
+  companies:
+    - coloclue
+    - sue
