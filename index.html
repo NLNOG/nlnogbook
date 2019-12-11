@@ -16,6 +16,7 @@
             <th>Nick</th>
             <th>Full name</th>
             <th>Company</th>
+            <th>RIR Handle</th>
             <th>Country</th>
         </tr>
         </thead>
@@ -27,7 +28,7 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
 <script>
-    var defaults = {full_name: '', companies: [], country: ''};
+    var defaults = {full_name: '', companies: [], country: '', rir_handle: ''};
     $(document).ready(function () {
         $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
             var companies = jsyaml.load(companies_yml);
@@ -59,6 +60,8 @@
                         }
                     }
                     newUser.append(companyStr);
+
+                    newUser.append('<td><a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=ripe&key=' + user.rir_handle + '&type=person" target="_blank">' + user.rir_handle + '</a>');
 
                     var flag = $('<td />');
                     if (user.country) {
