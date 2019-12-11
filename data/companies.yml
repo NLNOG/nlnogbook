@@ -1,4 +1,7 @@
 ---
+bit:
+  name: BIT
+  asn: 12859
 breedband:
   name: Breedband B.V.
   asn: 5524
