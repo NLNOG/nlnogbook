@@ -16,6 +16,12 @@ Fluor:
   country: nl
   companies:
     - bit
+Gnunix:
+  full_name: Mathijs Hengst
+  country: nl
+  companies: 
+    - serverius
+    - speedix
 Habbie:
   full_name: Peter van Dijk
   country: nl
