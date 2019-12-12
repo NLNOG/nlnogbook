@@ -123,3 +123,10 @@ pvanstam:
   country: nl
   companies:
     - nbip
+Dimmu:
+  full_name: Cliff Albert
+  rir_handle:
+    - CA3348-RIPE
+  country: nl
+  companies:
+    - unilogic
