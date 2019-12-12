@@ -94,3 +94,13 @@ marlinc:
   country: nl
   companies:
     - cloudbear
+joris:
+  full_name: Joris Cras
+  rir_handle: CRAS-RIPE
+  country: nl
+  companies:
+    - signet
+    - proserve
+    - cloudvps
+    - team.blue
+    
