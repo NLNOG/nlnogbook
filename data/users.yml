@@ -14,6 +14,7 @@ Cybertinus:
 Fluor:
   full_name: Sander Smeenk
   country: nl
+  rir_handle: SSM13-RIPE
   companies:
     - bit
 Gnunix:
