@@ -94,3 +94,11 @@ marlinc:
   country: nl
   companies:
     - cloudbear
+pvanstam:
+  full_name: Pim van Stam
+  rir_handle:
+    - STAM-RIPE
+    - PvS71-RIPE
+  country: nl
+  companies:
+    - nbip
