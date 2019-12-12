@@ -86,3 +86,8 @@ cloudbear:
     - 57758
     - 48105
   site: https://cloudbear.nl
+cambrium:
+  name: Cambrium B.V.
+  asn:
+    - 25596
+  site: https://www.cambrium.nl
