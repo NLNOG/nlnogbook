@@ -97,3 +97,10 @@ nbip:
     - 200020
     - 209566
   site: https://www.nbip.nl/
+unilogic:
+  name: Unilogic B.V.
+  asn:
+    - 28788
+    - 41241
+  site: https://www.unilogic.nl/
+
