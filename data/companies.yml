@@ -70,7 +70,7 @@ raymon:
   name: Raymon
   asn: 201723
 proserve:  
-  name: proserve B.V.
+  name: Proserve B.V.
   asn: 21155
   site: https://www.proserve.nl
 cloudvps:  
@@ -78,8 +78,8 @@ cloudvps:
   asn: 35470
   site: https://www.cloudvps.nl
 team.blue:  
-  name: Team.blue
-  site: https://www.team.blue
+  name: team.blue
+  site: https://team.blue
 cloudbear:
   name: Cloudbear B.V.
   asn:
