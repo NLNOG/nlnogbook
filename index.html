@@ -32,7 +32,7 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
 <script>
-    var defaults = {full_name: '', companies: [], country: '', rir_handle: ''};
+    var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
     $(document).ready(function () {
         $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
             var companies = jsyaml.load(companies_yml);
@@ -91,7 +91,16 @@
                     newUser.append(companyStr);
                     newUser.append(asnStr);
 
-                    newUser.append('<td><a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=ripe&key=' + user.rir_handle + '&type=person" target="_blank">' + user.rir_handle + '</a>');
+                    var handleStr = $('<td />');
+                    if (!Array.isArray(user.rir_handle)) {
+                        user.rir_handle = [user.rir_handle];
+                    }
+
+                    for (var handle in user.rir_handle) {
+                        handleStr.append('<a href="https://apps.db.ripe.net/db-web-ui/#/lookup?source=ripe&key=' + user.rir_handle[handle] + '&type=person" target="_blank">' + user.rir_handle[handle] + '</a><br />');
+                    }
+
+                    newUser.append(handleStr);
 
                     var flag = $('<td />');
                     if (user.country) {
