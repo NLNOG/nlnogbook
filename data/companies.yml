@@ -91,3 +91,9 @@ cambrium:
   asn:
     - 25596
   site: https://www.cambrium.nl
+nbip:
+  name: Stichting Nationale Beheersorganisatie Internet Providers
+  asn:
+    - 200020
+    - 209566
+  site: https://www.nbip.nl/
