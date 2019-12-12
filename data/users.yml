@@ -131,3 +131,10 @@ Dimmu:
   country: nl
   companies:
     - unilogic
+jback:
+  full_name: Jasper Backer
+  rir_handle:
+    - BCKR1-RIPE
+  country: nl
+  companies:
+    - coloclue
