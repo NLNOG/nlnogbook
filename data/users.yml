@@ -94,6 +94,18 @@ marlinc:
   country: nl
   companies:
     - cloudbear
+Friek:
+  full_name: Johan Mulder
+  rir_handle: JOMU667
+  country: nl
+  companies:
+    - cambrium
+Appel:
+  full_name: Mark van Herpen
+  rir_handle: MvH192-RIPE
+  country: nl
+  companies:
+    - cambrium
 pvanstam:
   full_name: Pim van Stam
   rir_handle:
