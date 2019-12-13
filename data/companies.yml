@@ -103,4 +103,12 @@ unilogic:
     - 28788
     - 41241
   site: https://www.unilogic.nl/
-
+quanza:
+  name: Quanza Engineering B.V.
+  asn:
+    - 20769
+    - 202932
+  site: https://www.quanza.net/
+nlnogring:
+  name: NLNOG RING
+  site: https://ring.nlnog.net/
