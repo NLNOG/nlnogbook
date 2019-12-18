@@ -147,8 +147,7 @@ Rodecker:
     - nlnogring
 Rubra:
   full_name: Erik Bais
-    rir_handle:
-    - bais-ripe
+  rir_handle: bais-ripe
   country: nl
   companies:
     - a2b
