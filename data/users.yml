@@ -151,3 +151,9 @@ Rubra:
   country: nl
   companies:
     - a2b
+Skinza:
+  full_name: Bas van Elburg
+  rir_handle: BVEL-RIPE
+  country: nl
+  companies: 
+    - globale-dc
