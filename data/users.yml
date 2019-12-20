@@ -157,3 +157,14 @@ Skinza:
   country: nl
   companies: 
     - globale-dc
+florian:
+  full_name: Florian Hibler
+  rir_handle: FH-RIPE
+  country: de
+  companies:
+    - arista
+jorisc:
+  full_name: Joris Claassen
+  country: nl
+  companies:
+    - arista
