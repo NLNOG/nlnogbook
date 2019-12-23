@@ -174,4 +174,9 @@ phreak:
   country: nl
   companies:
     - sentia
-    
+guur:
+  full_name: Ruben van Staveren
+  country: nl
+  rir_handle: RVS14-RIPE
+  companies:
+    - proserve
