@@ -120,3 +120,8 @@ arista:
   name: Arista Networks
   asn: 55064
   site: https://www.arista.com
+sentia:
+  name: Sentia Netherlands BV
+  asn: 8315
+  site: https://www.sentia.com
+  
