@@ -180,3 +180,9 @@ guur:
   rir_handle: RVS14-RIPE
   companies:
     - proserve
+sdktr:
+  full_name: Stefan de Kooter
+  country: nl
+  rir_handle: SDK56-RIPE
+  companies:
+    - proxsys
