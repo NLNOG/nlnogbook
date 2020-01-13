@@ -128,4 +128,8 @@ proxsys:
   name: Proxsys BV
   asn: 44858
   site: https://www.proxsys.nl
-  
+speakup:
+  name: Speakup B.V.
+  asn: 49627
+  site: https://speakup.nl
+
