@@ -132,4 +132,7 @@ speakup:
   name: Speakup B.V.
   asn: 49627
   site: https://speakup.nl
-
+interconnectservices:
+  name: Interconnect Services B.V.
+  asn: 9150
+  site: https://www.interconnect.nl
