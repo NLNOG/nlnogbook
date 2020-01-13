@@ -186,3 +186,9 @@ sdktr:
   rir_handle: SDK56-RIPE
   companies:
     - proxsys
+nullr0ute:
+  full_name: Nick Bouwhuis
+  country: nl
+  rir_handle: NB7401-RIPE
+  companies:
+    - speakup
