@@ -209,3 +209,9 @@ job:
   companies:
     - ntt
     - jobsnijders
+rinse:
+  full_name: Rinse Kloek
+  country: nl
+  rir_handle: RK10718-RIPE
+  companies:
+    - solcon
