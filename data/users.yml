@@ -202,3 +202,10 @@ Natha:
   country: nl
   companies:
     - ripencc
+job:
+  full_name: Job Snijders
+  country: nl
+  rir_handle: JWJS1-RIPE
+  companies:
+    - ntt
+    - jobsnijders
