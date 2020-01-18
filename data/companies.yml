@@ -136,3 +136,11 @@ interconnectservices:
   name: Interconnect Services B.V.
   asn: 9150
   site: https://www.interconnect.nl
+jobsnijders:
+  name: Job Snijders
+  asn: 15562
+  site: http://instituut.net/~job
+ntt:
+  name: NTT
+  asn: 2914
+  site: https://us.ntt.net
