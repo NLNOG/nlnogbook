@@ -209,3 +209,10 @@ job:
   companies:
     - ntt
     - jobsnijders
+jurrian:
+  full_name: Jurrian van Iersel
+  rir_handle:
+    - JVI-RIPE
+  country: nl
+  companies:
+    - coloclue
