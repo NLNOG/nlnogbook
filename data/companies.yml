@@ -144,3 +144,7 @@ ntt:
   name: NTT
   asn: 2914
   site: https://us.ntt.net
+ccv:
+  name: CCV
+  asn: 48520
+  site: https:/www.ccv.eu
