@@ -222,3 +222,11 @@ jurrian:
   country: nl
   companies:
     - coloclue
+TheHog:
+  full_name: Igor Ybema
+  rir_handle:
+    - IY47-RIPE
+  country: nl
+  companies:
+    - ccv
+    
