@@ -238,4 +238,11 @@ tw:
   companies:
     - zuijlen
     - xs4all
-    
+klaver:
+  full_name: Michiel Klaver
+  rir_handle:
+    - KLVR4-RIPE
+  country: nl
+  companies:
+    - klaver
+    - proxy
