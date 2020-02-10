@@ -148,3 +148,11 @@ ccv:
   name: CCV
   asn: 48520
   site: https:/www.ccv.eu
+xs4all:
+  name: XS4ALL
+  asn: 3265
+  site: https://www.xs4all.nl
+ zuijlen:
+   name: Remco van Zuijlen
+   asn: 208717
+   site: https://as208717.net
