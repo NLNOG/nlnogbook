@@ -152,7 +152,7 @@ xs4all:
   name: XS4ALL
   asn: 3265
   site: https://www.xs4all.nl
- zuijlen:
-   name: Remco van Zuijlen
-   asn: 208717
-   site: https://as208717.net
+zuijlen:
+  name: Remco van Zuijlen
+  asn: 208717
+  site: https://as208717.net
