@@ -160,3 +160,6 @@ klaver:
   name: Michiel Klaver
   asn: 38970
   site: https://klaver.it
+proxy:
+  name: Proxy B.V.
+  site: https://proxy.nl
