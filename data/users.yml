@@ -229,4 +229,13 @@ TheHog:
   country: nl
   companies:
     - ccv
+tw:
+  full_name: Remco van Zuijlen
+  rir_handle:
+    - RZ2757-RIPE
+    - RVZ108-RIPE
+  country: nl
+  companies:
+    - zuijlen
+    - xs4all
     
