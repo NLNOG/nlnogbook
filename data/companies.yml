@@ -163,3 +163,7 @@ klaver:
 proxy:
   name: Proxy B.V.
   site: https://proxy.nl
+cyberfusion:
+  name: Cyberfusion
+  asn: 204983
+  site: https://cyberfusion.nl
