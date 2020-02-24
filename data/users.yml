@@ -246,3 +246,10 @@ klaver:
   companies:
     - klaver
     - proxy
+wedwards:
+  full_name: William Edwards
+  rir_handle:
+    - WDE4-RIPE
+  country: nl
+  companies:
+    - cyberfusion
