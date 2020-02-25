@@ -253,3 +253,9 @@ wedwards:
   country: nl
   companies:
     - cyberfusion
+kinroy:
+  full_name: Yornik Heyl
+  country: nl
+  rir_handle: YH897-RIPE
+  companies: 
+    - proserve
