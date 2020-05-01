@@ -5,6 +5,11 @@ aakso:
   rir_handle: AA2164-RIPE
   companies:
     - upcloud
+casdr:
+  full_name: Cas de Reuver
+  country: nl
+  companies:
+    - breedband
 yeled:
   full_name: Charlie Allom
   country: gb
