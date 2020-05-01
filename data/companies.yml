@@ -1,4 +1,8 @@
 ---
+breedband:
+  name: Breedband B.V.
+  asn: 5524
+  site: https://breedband.nl
 upcloud:
   name: UpCloud USA Inc
   asn:
