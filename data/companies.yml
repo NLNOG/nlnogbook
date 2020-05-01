@@ -3,6 +3,16 @@ breedband:
   name: Breedband B.V.
   asn: 5524
   site: https://breedband.nl
+evilforbeginners:
+  name: evilforbeginners
+  asn:
+    - 47988
+  site: https://evilforbeginners.com/
+github:
+  name: GitHub Inc.
+  asn:
+    - 36459
+  site: https://github.com/
 upcloud:
   name: UpCloud USA Inc
   asn:
