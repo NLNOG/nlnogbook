@@ -706,7 +706,7 @@ aakso:
   country: fi
   rir_handle: AA2164-RIPE
   companies:
-    - upcloud
+  - upcloud
 adama:
   companies: []
   country: gb
@@ -903,7 +903,7 @@ casdr:
   full_name: Cas de Reuver
   country: nl
   companies:
-    - breedband
+  - breedband
 cetex:
   companies:
   - as60205
@@ -2055,8 +2055,8 @@ yeled:
   country: gb
   rir_handle: CA2736-RIPE
   companies:
-    - github
-    - evilforbeginners
+  - github
+  - evilforbeginners
 zfx:
   companies:
   - as197541

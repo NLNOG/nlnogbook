@@ -25,3 +25,5 @@ jobs:
     # Runs a single command using the runners shell
     - name: YAML Lint
       uses: ibiqlik/action-yamllint@v1.0.0
+      with:
+        file_or_dir: data

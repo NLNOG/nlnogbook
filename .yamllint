@@ -1,0 +1,12 @@
+---
+rules:
+  indentation:
+    spaces: 2
+    indent-sequences: consistent
+    check-multi-line-strings: false
+  new-lines:
+    type: unix
+  key-duplicates: enable
+  empty-values:
+    forbid-in-block-mappings: true
+    forbid-in-flow-mappings: true
