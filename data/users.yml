@@ -258,3 +258,12 @@ wedwards:
   country: nl
   companies:
     - cyberfusion
+alarig:
+  full_name: Alarig Le Lay
+  rir_handle:
+    - ALL75-RIPE
+    - ALL90-RIPE
+  country: fr
+  companies:
+    - alarig
+    - grifon

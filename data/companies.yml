@@ -171,3 +171,11 @@ cyberfusion:
   name: Cyberfusion
   asn: 204983
   site: https://cyberfusion.nl
+grifon:
+  name: grifon
+  asn: 204092
+  site: https://grifon.fr
+alarig:
+  name: alarig
+  asn: 208627
+  site: https://www.swordarmor.fr
