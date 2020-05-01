@@ -1,5 +1,7 @@
 # Networker
 
+https://spodder.com/networker/
+
 To add yourself to the list:
 1. Make sure your organisation exists in https://github.com/yeled/networker/blob/master/data/companies.yml
 2. Add your own user to https://github.com/yeled/networker/blob/master/data/users.yml
