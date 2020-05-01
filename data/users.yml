@@ -1,15 +1,2055 @@
 ---
+Acontios:
+  companies:
+  - as24963
+  - as34019
+  - as34997
+  country: fr
+  full_name: "Cl\xE9ment Cavadore"
+  rir_handle:
+  - CCA-RIPE
+  - CCAV-RIPE
+AlexBand:
+  companies:
+  - as199664
+  country: nl
+  full_name: Alex Band
+  rir_handle:
+  - AB32024-RIPE
+Andreas-IPO:
+  companies:
+  - as12552
+  country: se
+  full_name: Andreas Larsen
+  rir_handle:
+  - AL5633-RIPE
+Anticimex:
+  companies:
+  - as48514
+  country: se
+  full_name: Martin Millnert
+  rir_handle:
+  - MM31337-RIPE
+Axu:
+  companies:
+  - as29432
+  - as197032
+  country: fi
+  full_name: Aleksi Suhonen
+  rir_handle:
+  - AXU-RIPE
+BenW:
+  companies:
+  - as8607
+  country: gb
+  full_name: Ben White
+  rir_handle:
+  - BIW1-RIPE
+Boulon:
+  companies:
+  - as42096
+  country: fr
+  full_name: Sebastien Petit
+  rir_handle: []
+BugBlue:
+  companies: []
+  country: nl
+  full_name: Mendel Mobach
+  rir_handle: []
+Captainahab:
+  companies:
+  - as44515
+  country: is
+  full_name: Aki Barkarson
+  rir_handle:
+  - AHB55-RIPE
+Champie:
+  companies:
+  - as8677
+  - as41233
+  - as35701
+  - as29533
+  country: be
+  full_name: Bart Champagne
+  rir_handle:
+  - BCH-RIPE
+Coffe:
+  companies: []
+  country: se
+  full_name: Christoffer Andersson
+  rir_handle: []
+Cougar:
+  companies:
+  - as12757
+  - as13272
+  country: ee
+  full_name: Marko Veelma
+  rir_handle:
+  - MV88-RIPE
+Cybertinus:
+  companies:
+  - as8283
+  country: nl
+  full_name: Tijn Buijs
+  rir_handle:
+  - TIJN-RIPE
+Da_P:
+  companies:
+  - as15169
+  - as12859
+  country: ch
+  full_name: Pim van Pelt
+  rir_handle:
+  - PBVP1-RIPE
+Daluege:
+  companies:
+  - as2819
+  - as5588
+  - as29525
+  country: cz
+  full_name: Dan Cermak
+  rir_handle:
+  - DC144-RIPE
+Dimmu:
+  companies:
+  - as28788
+  - as41241
+  country: nl
+  full_name: Cliff Albert
+  rir_handle:
+  - CA3348-RIPE
+Disson:
+  companies:
+  - as51728
+  country: fi
+  full_name: Jorma Boman
+  rir_handle: []
+Djinh:
+  companies:
+  - as15348
+  country: nl
+  full_name: Alex Le Heux
+  rir_handle:
+  - ALEX
+Dlareg:
+  companies:
+  - as20783
+  country: de
+  full_name: Gerald Krause
+  rir_handle:
+  - GKR-RIPE
+Donner:
+  companies:
+  - as15725
+  country: de
+  full_name: Lutz Donnerhacke
+  rir_handle:
+  - LD26
+DougL:
+  companies:
+  - as16509
+  - as39111
+  - as14618
+  country: ie
+  full_name: Doug Lane
+  rir_handle: []
+Easty:
+  companies:
+  - as16175
+  country: 'no'
+  full_name: Lars Erik Gullerud
+  rir_handle:
+  - LEG14-RIPE
+Efraim:
+  companies:
+  - as1299
+  country: de
+  full_name: Alexander Koch
+  rir_handle:
+  - KOCH1-RIPE
+Eimann:
+  companies:
+  - as702
+  - as35244
+  - as39138
+  country: de
+  full_name: Dominik Bay
+  rir_handle:
+  - DB8026-RIPE
+Eising:
+  companies:
+  - as2603
+  country: dk
+  full_name: Allan Eising
+  rir_handle: []
+Evo--:
+  companies:
+  - as206570
+  - as49544
+  country: nl
+  full_name: Rogier van Eeten
+  rir_handle:
+  - RVE193-RIPE
+Fabian_:
+  companies:
+  - as31477
+  country: nl
+  full_name: Fabian Labohm
+  rir_handle:
+  - FJL4-RIPE
+Faragon:
+  companies:
+  - as25182
+  country: nl
+  full_name: Miriam Schoon
+  rir_handle: []
+FredNeuberger:
+  companies: []
+  country: de
+  full_name: Oliver Haake
+  rir_handle: []
+GPF:
+  companies:
+  - as12337
+  - as44880
+  country: de
+  full_name: Sebastian Wiesinger
+  rir_handle:
+  - GPF-RIPE
+Habbie:
+  companies: []
+  country: nl
+  full_name: Peter van Dijk
+  rir_handle:
+  - PVD99-RIPE
+Hardy:
+  companies: []
+  country: 'no'
+  full_name: Hardangen Anders
+  rir_handle: []
+Honk-20773:
+  companies:
+  - as20773
+  country: de
+  full_name: Malte von dem Hagen
+  rir_handle:
+  - HONK
+IMF2000:
+  companies:
+  - as29474
+  country: gb
+  full_name: Alistair C
+  rir_handle: []
+JPVelders:
+  companies: []
+  country: nl
+  full_name: JP Velders
+  rir_handle: []
+James_B:
+  companies:
+  - as61006
+  country: 'no'
+  full_name: Roger Jorgensen
+  rir_handle:
+  - ROJO9-RIPE
+Jappert:
+  companies:
+  - as35470
+  country: nl
+  full_name: Jasper van Erven Dorens
+  rir_handle: []
+Jeeves_:
+  companies:
+  - as197731
+  country: nl
+  full_name: Mark Schouten
+  rir_handle: []
+Jiri:
+  companies:
+  - as6667
+  - as719
+  - as790
+  - as3336
+  country: fi
+  full_name: Jiri Sane
+  rir_handle: []
+KeefR:
+  companies:
+  - as8560
+  country: de
+  full_name: "Matthias M\xFCller"
+  rir_handle: []
+Kippenijzer:
+  companies:
+  - as43113
+  country: nl
+  full_name: Sebastiaan Pais
+  rir_handle: []
+KnockandO:
+  companies:
+  - as8763
+  - as31529
+  country: de
+  full_name: Elmar K. Bins
+  rir_handle:
+  - EKB2
+  - ELMI-RIPE
+Kralian:
+  companies:
+  - as1835
+  country: dk
+  full_name: Anders Mundt Due
+  rir_handle:
+  - AMD2-RIPE
+LM:
+  companies:
+  - as8674
+  - as8995
+  country: se
+  full_name: "LM Jogb\xE4ck"
+  rir_handle:
+  - LMJ1-RIPE
+LeslieC:
+  companies: []
+  country: us
+  full_name: Leslie
+  rir_handle:
+  - CARR1-RIPE
+Luke6:
+  companies: []
+  country: de
+  full_name: Robert Blechinger
+  rir_handle: []
+Lukkie:
+  companies:
+  - as20562
+  - as24785
+  - as34307
+  country: nl
+  full_name: Lucas van Schouwen
+  rir_handle:
+  - LVS14-RIPE
+Lysis:
+  companies:
+  - as9033
+  - as8365
+  country: de
+  full_name: Marcus Stoegbauer
+  rir_handle:
+  - LYS-RIPE
+Magma:
+  companies: []
+  country: se
+  full_name: Magma Hindenburg
+  rir_handle: []
+Marv:
+  companies:
+  - as2818
+  - as9009
+  country: gb
+  full_name: Pia Gerhardt
+  rir_handle:
+  - PIAG-RIPE
+Md:
+  companies:
+  - as12637
+  country: it
+  full_name: Marco d'Itri
+  rir_handle:
+  - MDI-RIPE
+  - MDIS-RIPE
+Medivh:
+  companies:
+  - as25489
+  - as45012
+  country: de
+  full_name: Chris Kuhles
+  rir_handle:
+  - CK5000-RIPE
+Michiel:
+  companies:
+  - as5580
+  country: nl
+  full_name: Michiel Muhlenbaumer
+  rir_handle: []
+MrTux:
+  companies:
+  - as43911
+  country: de
+  full_name: Thomas Eichhorn
+  rir_handle: []
+Muffin:
+  companies:
+  - as8607
+  country: gb
+  full_name: Paul Sherratt
+  rir_handle:
+  - PTS-RIPE
+Natha:
+  companies:
+  - as3333
+  country: nl
+  full_name: Nathalie Trenaman
+  rir_handle: []
+Nick-56595:
+  companies:
+  - as56595
+  country: gb
+  full_name: Nick Ryce
+  rir_handle:
+  - NJR-RIPE
+Odjuret:
+  companies:
+  - as51040
+  country: se
+  full_name: "Ola Nystr\xF6m"
+  rir_handle:
+  - ON626-RIPE
+Perseus:
+  companies:
+  - as29542
+  country: dk
+  full_name: Lars L. Christensen
+  rir_handle:
+  - LLC11-RIPE
+PorCus_AS25091:
+  companies:
+  - as2613
+  - as25091
+  country: ch
+  full_name: Will van Gulik
+  rir_handle:
+  - WVG88-RIPE
+  - WMAX8-RIPE
+Rance:
+  companies:
+  - as16807
+  - as2140
+  - as53591
+  - as14904
+  - as15006
+  - as14912
+  country: us
+  full_name: Rance Smith
+  rir_handle:
+  - NETWO3680-ARIN
+  - RSM84-ARIN
+  - RAS4-LEVEL3
+Rawplayer:
+  companies: []
+  country: nl
+  full_name: Kevin de Kok
+  rir_handle: []
+RichiH:
+  companies:
+  - as48918
+  country: de
+  full_name: Richard Hartmann
+  rir_handle:
+  - RMH23-RIPE
+Robe:
+  companies: []
+  country: at
+  full_name: Michael Renner
+  rir_handle: []
+Rodecker:
+  companies:
+  - as16265
+  country: nl
+  full_name: Martin Pels
+  rir_handle:
+  - MP9136-RIPE
+Rubra:
+  companies:
+  - as51088
+  - as56789
+  country: nl
+  full_name: Erik Bais
+  rir_handle:
+  - BAIS-RIPE
+SP18:
+  companies:
+  - as30781
+  country: fr
+  full_name: "J\xE9r\xF4me Descoux"
+  rir_handle:
+  - LFML-RIPE
+STL:
+  companies:
+  - as3292
+  - as3246
+  country: dk
+  full_name: Sonny T. Larsen
+  rir_handle:
+  - STL2-RIPE
+ScottM:
+  companies: []
+  country: nl
+  full_name: Scott McIntyre
+  rir_handle: []
+Silence:
+  companies:
+  - as43948
+  - as42708
+  country: se
+  full_name: Johan Boger
+  rir_handle:
+  - JB17772-RIPE
+SlapChop:
+  companies: []
+  country: de
+  full_name: Andriy Bilous
+  rir_handle: []
+Steve-8468:
+  companies:
+  - as8468
+  country: gb
+  full_name: Steve Lalonde
+  rir_handle:
+  - SL1494-RIPE
+Summalajnen:
+  companies:
+  - as8674
+  country: se
+  full_name: Viktor Jakobsson
+  rir_handle: []
+SwedeMIke:
+  companies:
+  - as2914
+  country: se
+  full_name: Abrahamsson Mikael
+  rir_handle: []
+Symmetria:
+  companies:
+  - as30844
+  country: ''
+  full_name: Andrew Alston
+  rir_handle: []
+TB:
+  companies: []
+  country: nl
+  full_name: Marcel ten Berg
+  rir_handle:
+  - MCTB1-RIPE
+Teepo:
+  companies:
+  - as1342
+  country: fi
+  full_name: Tero Toikkanen
+  rir_handle:
+  - TT1516-RIPE
+TheHobbit:
+  companies:
+  - as8683
+  - as43519
+  country: gb
+  full_name: Karl Dyson
+  rir_handle:
+  - PORG1-RIPE
+Throstur:
+  companies:
+  - as6677
+  country: is
+  full_name: Throstur Svanbergsson
+  rir_handle: []
+Tigerdyr:
+  companies:
+  - as15516
+  country: dk
+  full_name: "S\xF8ren Skou"
+  rir_handle:
+  - SPS4-RIPE
+Tisteagle:
+  companies:
+  - as3301
+  country: se
+  full_name: Daniel Wennberg
+  rir_handle: []
+ToM:
+  companies:
+  - as16273
+  country: fi
+  full_name: "Toni Syv\xE4nen"
+  rir_handle: []
+Toshima:
+  companies:
+  - as286
+  - as517
+  country: de
+  full_name: Thomas Jessen
+  rir_handle:
+  - TOSH1-RIPE
+TraXo:
+  companies:
+  - as52088
+  country: de
+  full_name: Florian Bauhaus
+  rir_handle:
+  - FBH-RIPE
+Trellian:
+  companies:
+  - as25542
+  country: nl
+  full_name: Jeroen Simonetti
+  rir_handle:
+  - SIMO-RIPE
+Voovoos:
+  companies: []
+  country: pl
+  full_name: Maciej Wierzbicki
+  rir_handle: []
+WesleyS:
+  companies: []
+  country: nl
+  full_name: Wesley Steehouwer
+  rir_handle:
+  - WSLY-RIPE
+Wiebel:
+  companies: []
+  country: nl
+  full_name: Joris Vandalon
+  rir_handle:
+  - JV666-RIPE
+WoDaN:
+  companies: []
+  country: be
+  full_name: Jan Gyselinck
+  rir_handle: []
+Wunk:
+  companies:
+  - as5580
+  country: nl
+  full_name: Jeroen Wunnink
+  rir_handle:
+  - JWAT-RIPE
+ZaphodB:
+  companies:
+  - as5430
+  - as60955
+  country: de
+  full_name: Stefan Schmidt
+  rir_handle:
+  - ZAP
+Zoiah:
+  companies:
+  - as8312
+  - as44069
+  country: nl
+  full_name: Erik Smit
+  rir_handle: []
+'[OH]':
+  companies:
+  - as16243
+  - as14609
+  - as24115
+  - as24989
+  - as24990
+  - as35054
+  - as21371
+  - as17819
+  country: nl
+  full_name: Remco van Mook
+  rir_handle:
+  - RVM19-RIPE
+^AJ:
+  companies:
+  - as20799
+  country: gb
+  full_name: Andrew Jeanmonod
+  rir_handle:
+  - AJ3562-RIPE
+^raven:
+  companies:
+  - as24709
+  country: pl
+  full_name: Jarek Druzd
+  rir_handle:
+  - RAVN-RIPE
+_garry_:
+  companies:
+  - as8319
+  country: de
+  full_name: Garry Glendown
+  rir_handle:
+  - GGRN-RIPE
+_ruben:
+  companies:
+  - as21162
+  country: nl
+  full_name: Ruben Laban
+  rir_handle:
+  - RL2843-RIPE
+_sb_:
+  companies:
+  - as3320
+  country: de
+  full_name: Sebastian Becker
+  rir_handle:
+  - SB15220-RIPE
+_science:
+  companies:
+  - as8674
+  country: se
+  full_name: Emil Palm
+  rir_handle: []
+_sorcer:
+  companies:
+  - as8473
+  - as31292
+  - as38982
+  country: se
+  full_name: Peter Salanki
+  rir_handle:
+  - PS3900-RIPE
 aakso:
   full_name: Anton Aksola
   country: fi
   rir_handle: AA2164-RIPE
   companies:
     - upcloud
+adama:
+  companies: []
+  country: gb
+  full_name: Adam Armstrong
+  rir_handle:
+  - ADAM82-RIPE
+aelita:
+  companies:
+  - as3257
+  country: de
+  full_name: Anton Elita
+  rir_handle:
+  - AE-RIPE
+agent^:
+  companies:
+  - as8757
+  - as197913
+  country: gb
+  full_name: Adam Gent
+  rir_handle:
+  - AG12011-RIPE
+akai:
+  companies:
+  - as44381
+  country: 'no'
+  full_name: Anders Kringstad
+  rir_handle:
+  - AKAI-RIPE
+alamar:
+  companies:
+  - as28876
+  country: de
+  full_name: Julian Seifert
+  rir_handle:
+  - JULI-RIPE
+aman:
+  companies:
+  - as3292
+  country: se
+  full_name: "Daniel \xC5man"
+  rir_handle:
+  - AMAN-RIPE
+ambo:
+  companies: []
+  country: za
+  full_name: Graham Beneke
+  rir_handle:
+  - GB1-AFRINIC
+ancker:
+  companies:
+  - as160
+  country: us
+  full_name: Ryan Harden
+  rir_handle:
+  - HARDE20-ARIN
+andatche:
+  companies:
+  - as51059
+  country: gb
+  full_name: Ben Arblaster
+  rir_handle:
+  - BA874-RIPE
+andyd:
+  companies:
+  - as41230
+  - as8330
+  - as51526
+  - as44504
+  country: gb
+  full_name: Andy Davidson
+  rir_handle:
+  - AJBD-RIPE
+andym:
+  companies: []
+  country: gb
+  full_name: Andrew Mulholland
+  rir_handle: []
+anthonysomerset:
+  companies:
+  - as30844
+  - as30969
+  country: zw
+  full_name: Anthony Somerset
+  rir_handle:
+  - AS116-AFRINIC
+antti_:
+  companies:
+  - as29154
+  - as47732
+  country: fi
+  full_name: Antti Oksa
+  rir_handle:
+  - AO1761-RIPE
+avdagata:
+  companies: []
+  country: se
+  full_name: Marcus Lind
+  rir_handle: []
+b0n:
+  companies: []
+  country: sk
+  full_name: Pavol Lukac
+  rir_handle: []
+beardy:
+  companies:
+  - as12552
+  country: se
+  full_name: Tobias Rosenqvist
+  rir_handle: []
+beatles:
+  companies:
+  - as6667
+  - as719
+  - as790
+  - as3336
+  country: fi
+  full_name: Mikael Aaltonen
+  rir_handle: []
+beens:
+  companies:
+  - as39923
+  country: be
+  full_name: Steven Bens
+  rir_handle:
+  - SB6699-RIPE
+  - SB9696-RIPE
+berniv6:
+  companies:
+  - as12816
+  - as29259
+  country: de
+  full_name: Bernhard Schmidt
+  rir_handle:
+  - BSC-RIPE
+bill-x:
+  companies: []
+  country: gb
+  full_name: Bill Hulley
+  rir_handle: []
+bje:
+  companies:
+  - as8426
+  - as12628
+  country: gb
+  full_name: Jaco Engelbrecht
+  rir_handle:
+  - BJE-RIPE
+bl___:
+  companies:
+  - as7712
+  - as132213
+  - as133588
+  country: ''
+  full_name: Ville Ojamo
+  rir_handle: []
+blackace:
+  companies:
+  - as6724
+  country: de
+  full_name: Sebastian Heidrich
+  rir_handle: []
+bminish:
+  companies:
+  - as39093
+  country: ''
+  full_name: Brendan Minish
+  rir_handle:
+  - BM3188-RIPE
+buki:
+  companies:
+  - as2819
+  - as1903
+  country: cz
+  full_name: "Marek Kozlovsk\xFD"
+  rir_handle:
+  - BUKI-RIPE
+buraglio:
+  companies:
+  - as38
+  - as1224
+  - as40387
+  country: us
+  full_name: Nick Buraglio
+  rir_handle: []
+calmh:
+  companies:
+  - as15782
+  - as34936
+  country: se
+  full_name: Jakob Borg
+  rir_handle:
+  - JB-RIPE
 casdr:
   full_name: Cas de Reuver
   country: nl
   companies:
     - breedband
+cetex:
+  companies:
+  - as60205
+  country: ''
+  full_name: Oskar Stenman
+  rir_handle: []
+chrustler:
+  companies:
+  - as1299
+  - as3301
+  country: se
+  full_name: Anders Lagerqvist
+  rir_handle: []
+corre:
+  companies:
+  - as29217
+  - as48522
+  - as24813
+  country: se
+  full_name: Carlsson Erik
+  rir_handle: []
+crazzy:
+  companies:
+  - as42695
+  country: se
+  full_name: Johan Hedberg
+  rir_handle: []
+cron2:
+  companies: []
+  country: de
+  full_name: Gert Doering
+  rir_handle: []
+d4n:
+  companies:
+  - as8897
+  - as12513
+  - as12390
+  country: gb
+  full_name: Dan Holme
+  rir_handle:
+  - DH2512-RIPE
+danl:
+  companies:
+  - as8473
+  - as21250
+  country: se
+  full_name: Dan Larsson
+  rir_handle:
+  - DAN-RIPE
+danysek:
+  companies:
+  - as8251
+  - as42000
+  - as47200
+  country: cz
+  full_name: Daniel Suchy
+  rir_handle:
+  - DANN-RIPE
+darkkis`:
+  companies:
+  - as51164
+  - as20574
+  country: fi
+  full_name: Mika Ahoniemi
+  rir_handle:
+  - DARK15-RIPE
+davenpro:
+  companies:
+  - as20473
+  country: us
+  full_name: Adam Davenport
+  rir_handle: []
+davew:
+  companies:
+  - as1213
+  country: ie
+  full_name: Dave Wilson
+  rir_handle:
+  - dw238-ripe
+deBruijn:
+  companies:
+  - as5580
+  country: nl
+  full_name: Bart Paul de Bruijn
+  rir_handle: []
+denn1s:
+  companies:
+  - as196752
+  country: nl
+  full_name: Dennis Krul
+  rir_handle:
+  - TLDK-RIPE
+docjones:
+  companies:
+  - as1248
+  country: fi
+  full_name: Joni Nurmi
+  rir_handle:
+  - JONI-RIPE
+dockmaster:
+  companies: []
+  country: de
+  full_name: Sascha E. Pollok
+  rir_handle: []
+dotwaffle:
+  companies: []
+  country: gb
+  full_name: Dark Lord Matthew Walster
+  rir_handle:
+  - MW2275-RIPE
+dr:
+  companies:
+  - as5401
+  country: de
+  full_name: "Daniel R\xF6sen"
+  rir_handle:
+  - CLUE-RIPE
+  - DARO-RIPE
+dws:
+  companies:
+  - as50266
+  country: nl
+  full_name: Maarten Bollen
+  rir_handle:
+  - DWS-RIPE
+elch:
+  companies:
+  - as51176
+  country: de
+  full_name: Gregor Radtke
+  rir_handle: []
+elio:
+  companies:
+  - as30975
+  - as43607
+  country: pl
+  full_name: Rafal Sloniewski
+  rir_handle:
+  - RIPE
+elkon:
+  companies:
+  - as61189
+  country: ee
+  full_name: Gren Kass
+  rir_handle:
+  - GK1206-RIPE
+emj:
+  companies:
+  - as43948
+  - as42708
+  country: se
+  full_name: "Eric Lindsj\xF6"
+  rir_handle:
+  - EMJ-RIPE
+equinox:
+  companies:
+  - as196614
+  country: de
+  full_name: David Lamparter
+  rir_handle:
+  - EQUI-RIPE
+escapechen:
+  companies: []
+  country: de
+  full_name: "Marcel K\xFChn"
+  rir_handle: []
+evan:
+  companies:
+  - as3491
+  country: it
+  full_name: Marco Marzetti
+  rir_handle:
+  - MM50975-RIPE
+evelea:
+  companies: []
+  country: nl
+  full_name: Elvis Velea
+  rir_handle:
+  - DEV82-RIPE
+falk:
+  companies:
+  - as50343
+  country: de
+  full_name: Falk Stern
+  rir_handle:
+  - FS8788-RIPE
+fhibler:
+  companies:
+  - as251
+  country: de
+  full_name: Florian Hibler
+  rir_handle:
+  - FH-RIPE
+fixxer:
+  companies:
+  - as43665
+  country: se
+  full_name: Peter Josefsson
+  rir_handle: []
+flyingparchment:
+  companies:
+  - as43821
+  - as14907
+  country: gb
+  full_name: River Tarnell
+  rir_handle: []
+fnordpojk:
+  companies:
+  - as15793
+  - as21195
+  country: se
+  full_name: Mattias Bergsten
+  rir_handle:
+  - MB22077-RIPE
+frank:
+  companies:
+  - as30961
+  country: be
+  full_name: Frank Louwers
+  rir_handle:
+  - FL66-RIPE
+froztbyte:
+  companies: []
+  country: za
+  full_name: JP Viljoen
+  rir_handle:
+  - JV2-AFRINIC
+gimi:
+  companies:
+  - as16086
+  country: fi
+  full_name: Kimmo Liikonen
+  rir_handle:
+  - KL1982-RIPE
+gizmo:
+  companies:
+  - as6724
+  - as29670
+  country: de
+  full_name: Christian Seitz
+  rir_handle:
+  - CHRS-RIPE
+growler:
+  companies:
+  - as15216
+  country: gb
+  full_name: Jonathan Oddy
+  rir_handle:
+  - JO497-RIPE
+gujjdo:
+  companies:
+  - as39570
+  country: se
+  full_name: Simon Lindgren
+  rir_handle:
+  - SL9352-RIPE
+gunvald:
+  companies:
+  - as38982
+  country: de
+  full_name: Uwe Wagner
+  rir_handle:
+  - OH3439-RIPE
+hassel:
+  companies:
+  - as16150
+  - as6797
+  country: se
+  full_name: "Carl Hasselstr\xF6m"
+  rir_handle: []
+hkkl:
+  companies:
+  - as202053
+  - as25697
+  - as42297
+  - as34387
+  country: fi
+  full_name: "Henri Gr\xF6nroos"
+  rir_handle:
+  - HG627-RIPE
+hlkv6:
+  companies:
+  - as59469
+  - as12617
+  country: dk
+  full_name: Henrik Kramshoej
+  rir_handle:
+  - HLK1-RIPE
+ioio:
+  companies: []
+  country: gb
+  full_name: Ayo Jegede
+  rir_handle: []
+ior:
+  companies:
+  - as57381
+  - as58298
+  country: 'no'
+  full_name: Daniel Husand
+  rir_handle:
+  - DH2504-RIPE
+  - DH3482-RIPE
+ixs:
+  companies: []
+  country: nl
+  full_name: Andreas Thienemann
+  rir_handle:
+  - IXS-RIPE
+jef_:
+  companies: []
+  country: gb
+  full_name: James Fletcher
+  rir_handle: []
+jens:
+  companies: []
+  country: de
+  full_name: Jens Reichmann
+  rir_handle:
+  - JR52-RIPE
+jesk:
+  companies:
+  - as50061
+  country: de
+  full_name: Christian Meutes
+  rir_handle:
+  - JESK-RIPE
+jjs:
+  companies:
+  - as16086
+  country: fi
+  full_name: Jarkko Saloranta
+  rir_handle:
+  - JJS12-RIPE
+jl:
+  companies:
+  - as46489
+  country: uk
+  full_name: Jamie
+  rir_handle:
+  - JML-RIPE
+job:
+  companies:
+  - as199036
+  - as15562
+  - as2914
+  country: nl
+  full_name: Job Snijders
+  rir_handle:
+  - JWJS1-RIPE
+kajtzu:
+  companies:
+  - as29154
+  - as16023
+  - as47732
+  country: fi
+  full_name: Kaj Niemi
+  rir_handle:
+  - KJN-RIPE
+karnaugh:
+  companies:
+  - as37235
+  country: za
+  full_name: Colin Alston
+  rir_handle:
+  - CDA32-RIPE
+kay:
+  companies:
+  - as13020
+  - as50472
+  country: de
+  full_name: Kay Rechthien
+  rir_handle:
+  - xtc23-ripe
+kefren:
+  companies:
+  - as31710
+  country: ro
+  full_name: Mihai Chelaru
+  rir_handle:
+  - MC5794-RIPE
+kevin:
+  companies:
+  - as5580
+  country: nl
+  full_name: Tieman Kevin
+  rir_handle: []
+kevinday:
+  companies:
+  - as13331
+  - as19255
+  - as26943
+  country: us
+  full_name: Kevin Day
+  rir_handle:
+  - KDA6-ARIN
+kinlo:
+  companies:
+  - as28707
+  country: be
+  full_name: Peter Leurs
+  rir_handle:
+  - PL2100-RIPE
+klaver:
+  companies:
+  - as24586
+  - as38970
+  country: nl
+  full_name: Michiel Klaver
+  rir_handle:
+  - KLVR6-RIPE
+kll:
+  companies:
+  - as2792
+  - as2863
+  country: se
+  full_name: Kristian Larsson
+  rir_handle:
+  - KLL-RIPE
+koszik:
+  companies:
+  - as41075
+  - as29278
+  - as43711
+  - as31380
+  country: hu
+  full_name: Matyas Koszik
+  rir_handle: []
+kraut:
+  companies:
+  - as9145
+  country: de
+  full_name: Thomas Kuehling
+  rir_handle: []
+lee:
+  companies:
+  - as30071
+  country: gb
+  full_name: Lee Valentine
+  rir_handle: []
+limbo:
+  companies: []
+  country: se
+  full_name: Jonas Maanmies
+  rir_handle: []
+lkmhaqer:
+  companies:
+  - as14203
+  country: ''
+  full_name: Charles Niman
+  rir_handle: []
+lochii:
+  companies:
+  - as8426
+  country: gb
+  full_name: Dave Freedman
+  rir_handle: []
+lpe:
+  companies:
+  - as20626
+  country: se
+  full_name: "Lars Peter Engstr\xF6m"
+  rir_handle: []
+lwb:
+  companies:
+  - as20547
+  - as45019
+  country: gb
+  full_name: Luke Batchelor
+  rir_handle:
+  - LWB-RIPE
+mXr:
+  companies:
+  - as24953
+  country: at
+  full_name: Markus Rambossek
+  rir_handle:
+  - MRAM-RIPE
+maagic:
+  companies:
+  - as35382
+  country: fi
+  full_name: "Antero Katajam\xE4ki"
+  rir_handle:
+  - AK3955-RIPE
+macTijn:
+  companies: []
+  country: nl
+  full_name: Martijn Bakker
+  rir_handle: []
+madeddie:
+  companies: []
+  country: nl
+  full_name: Edwin Hermans
+  rir_handle:
+  - EH4682
+malyprinc:
+  companies:
+  - as8778
+  country: sk
+  full_name: Milan Stofan
+  rir_handle:
+  - MS4430-RIPE
+mancz:
+  companies:
+  - as20507
+  - as15670
+  - as43995
+  country: nl
+  full_name: Theo Hoogerheide
+  rir_handle:
+  - TJPH83-RIPE
+mark:
+  companies:
+  - as14907
+  - as43821
+  country: nl
+  full_name: Mark Bergsma
+  rir_handle:
+  - MBE96-ARIN
+  - MBE96-RIPE
+marlow:
+  companies:
+  - as42227
+  - as47490
+  - as49416
+  country: dk
+  full_name: Martin List-Petersen
+  rir_handle:
+  - ML6710-RIPE
+  - MLP91-RIPE
+  - ''
+  - MLP155-RIPE
+martijn-49544:
+  companies:
+  - as49544
+  country: nl
+  full_name: Martijn Schmidt
+  rir_handle:
+  - MJS89-RIPE
+martinko:
+  companies:
+  - as34820
+  - as48133
+  - as16006
+  country: sk
+  full_name: Martin Valasek
+  rir_handle:
+  - MV80-RIPE
+masterF00:
+  companies:
+  - as12657
+  - as12817
+  - as29317
+  country: de
+  full_name: Sascha Lenz
+  rir_handle:
+  - SL277-RIPE
+  - SLZN-RIPE
+  - SLZ-RIPE
+  - SLZ
+matthew-2914:
+  companies:
+  - as2914
+  country: ''
+  full_name: Matthew Whittaker-Williams
+  rir_handle:
+  - MW2861-RIPE
+maxdis:
+  companies:
+  - as5524
+  country: nl
+  full_name: Max Disteli
+  rir_handle: []
+medea61:
+  companies:
+  - as31424
+  - as20612
+  country: ch
+  full_name: Roman Hochuli
+  rir_handle:
+  - RHO3-RIPE
+mephisto:
+  companies:
+  - as29008
+  country: de
+  full_name: "Bastian M\xE4user"
+  rir_handle:
+  - BM848-RIPE
+mha:
+  companies: []
+  country: se
+  full_name: Mikael Hakali
+  rir_handle: []
+miono:
+  companies: []
+  country: se
+  full_name: Markus Nilsson
+  rir_handle: []
+mjs:
+  companies: []
+  country: fi
+  full_name: Matti Saarinen
+  rir_handle: []
+mmi:
+  companies: []
+  country: de
+  full_name: Christian Zeng
+  rir_handle: []
+momorientes:
+  companies:
+  - as48918
+  country: de
+  full_name: Moritz Frenzel
+  rir_handle:
+  - MOMO23-RIPE
+monrad:
+  companies:
+  - as51468
+  country: dk
+  full_name: Mikkel Mondrup Kristensen
+  rir_handle:
+  - MMK38-RIPE
+monstah:
+  companies:
+  - as20514
+  country: se
+  full_name: "Fredrik Lagertr\xE4d"
+  rir_handle: []
+mr-50986:
+  companies:
+  - as50986
+  country: se
+  full_name: Magnus Ringdahl
+  rir_handle:
+  - MR5753-RIPE
+mrtn-:
+  companies: []
+  country: se
+  full_name: Martin Palm
+  rir_handle: []
+natm:
+  companies:
+  - as30746
+  country: gb
+  full_name: Nat Morris
+  rir_handle:
+  - nat-ripe
+ndonegan:
+  companies:
+  - as39122
+  country: ie
+  full_name: Niall Donegan
+  rir_handle:
+  - ND1063-RIPE
+negativecreep:
+  companies:
+  - as9541
+  country: pk
+  full_name: Zaeem Arshad
+  rir_handle: []
+nemith:
+  companies: []
+  country: us
+  full_name: Brandon Bennett
+  rir_handle: []
+netravnen:
+  companies:
+  - as31027
+  country: dk
+  full_name: Christoffer
+  rir_handle: []
+nibbler:
+  companies:
+  - as248
+  - as249
+  - as250
+  country: eu
+  full_name: Michael Horn
+  rir_handle:
+  - HORN-RIPE
+nick-2128:
+  companies:
+  - as2128
+  country: ie
+  full_name: Nick Hilliard
+  rir_handle: []
+nopedial:
+  companies:
+  - as2906
+  country: it
+  full_name: Samer Abdel-Hafez
+  rir_handle:
+  - SA3083-RIPE
+olsson:
+  companies:
+  - as34244
+  country: se
+  full_name: Philip Olsson
+  rir_handle: []
+onefst250r:
+  companies: []
+  country: .u
+  full_name: Brandon Robare
+  rir_handle: []
+otis:
+  companies:
+  - as196944
+  country: sk
+  full_name: Juraj Lutter
+  rir_handle:
+  - OW-RIPE
+otmar:
+  companies: []
+  country: at
+  full_name: Otmar Lendl
+  rir_handle: []
+p_p:
+  companies:
+  - as28707
+  country: be
+  full_name: Pepijn
+  rir_handle:
+  - PP3016-RIPE
+paravoid:
+  companies:
+  - as14907
+  - as43821
+  country: gr
+  full_name: Faidon Liambotis
+  rir_handle:
+  - FAID1-RIPE
+perole:
+  companies:
+  - as15932
+  country: 'no'
+  full_name: Per Ole Klemetsrud
+  rir_handle:
+  - klem
+pgrossy:
+  companies: []
+  country: gb
+  full_name: Pawel Grossy
+  rir_handle: []
+phreak:
+  companies:
+  - as24642
+  - as21155
+  country: nl
+  full_name: Sebastiaan Koetsier
+  rir_handle:
+  - SK3127-RIPE
+pilo-26627:
+  companies:
+  - as26627
+  country: us
+  full_name: Alex Pilosov
+  rir_handle:
+  - ALEXP-ARIN
+plopix:
+  companies:
+  - as6724
+  - as15506
+  country: de
+  full_name: Erik Wenzel
+  rir_handle:
+  - EW12-RIPE
+plz:
+  companies:
+  - as29432
+  country: fi
+  full_name: Jussi Peltola
+  rir_handle:
+  - PLZ-RIPE
+pnk:
+  companies:
+  - as50304
+  country: 'no'
+  full_name: Eirik Hjelle
+  rir_handle:
+  - EH752-RIPE
+proGamler:
+  companies: []
+  country: de
+  full_name: Jan-Philipp
+  rir_handle: []
+prozzerg:
+  companies:
+  - as25473
+  country: se
+  full_name: Fredrik Arnell
+  rir_handle: []
+qchn:
+  companies: []
+  country: de
+  full_name: Robert Groesser
+  rir_handle:
+  - QCHN-RIPE
+qybl:
+  companies:
+  - as48918
+  country: de
+  full_name: Hannes Rist
+  rir_handle: []
+radical:
+  companies:
+  - as29518
+  country: se
+  full_name: "Fredrik V\xF6cks"
+  rir_handle:
+  - RAD-RIPE
+rasm:
+  companies:
+  - as33886
+  country: se
+  full_name: "Rasmus \xC5berg"
+  rir_handle:
+  - RA142-RIPE
+reaper^:
+  companies:
+  - as3301
+  country: se
+  full_name: Daniel Dib
+  rir_handle: []
+reth:
+  companies:
+  - as50168
+  country: se
+  full_name: Robin Johansson
+  rir_handle:
+  - RETH-RIPE
+rikard0:
+  companies: []
+  country: cz
+  full_name: Richard Kuchar
+  rir_handle: []
+ripp:
+  companies:
+  - as1668
+  country: de
+  full_name: Alexander Kinscher
+  rir_handle:
+  - AKIN-RIPE
+robjs:
+  companies:
+  - as2856
+  - as5400
+  country: gb
+  full_name: Rob Shakir
+  rir_handle:
+  - RJS-RIPE
+robo-isppro:
+  companies:
+  - as35366
+  country: de
+  full_name: Ronny Boesger
+  rir_handle:
+  - ROBO-RIPE
+rocks:
+  companies:
+  - as206499
+  country: it
+  full_name: Marco d'Angelo
+  rir_handle:
+  - MD22807-RIPE
+ronnie:
+  companies:
+  - as15782
+  - as44297
+  country: se
+  full_name: Ronnie Flink
+  rir_handle:
+  - RF2881-RIPE
+rowlo:
+  companies:
+  - as9519
+  country: au
+  full_name: Scott Rowlandson
+  rir_handle: []
+ruupert:
+  companies: []
+  country: fi
+  full_name: Raul Becker
+  rir_handle: []
+sagar:
+  companies:
+  - as9143
+  country: sg
+  full_name: Sachar de Vries
+  rir_handle: []
+salparadise:
+  companies:
+  - as26749
+  country: us
+  full_name: sergio danelli
+  rir_handle:
+  - TECHN539-ARIN
+sandyb:
+  companies:
+  - as8426
+  country: gb
+  full_name: Sandy Breeze
+  rir_handle: []
+sb:
+  companies:
+  - as51058
+  country: de
+  full_name: Sascha Bielski
+  rir_handle:
+  - IPV6-RIPE
+sd:
+  companies:
+  - as8251
+  country: cz
+  full_name: Karel Tuma
+  rir_handle: []
+sid3windr:
+  companies:
+  - as35627
+  - as50156
+  - as50906
+  country: be
+  full_name: Tom Laermans
+  rir_handle:
+  - TL1020-RIPE
+simeon:
+  companies:
+  - as16
+  - as63331
+  - as37589
+  country: us
+  full_name: Simeon Miteff
+  rir_handle:
+  - SM2-AFRINIC
+simondsh:
+  companies:
+  - as39326
+  country: gb
+  full_name: Simon Pearson
+  rir_handle:
+  - SP6383-RIPE
+sjms:
+  companies:
+  - as57771
+  country: nl
+  full_name: Sander Steffann
+  rir_handle:
+  - SJMS1-RIPE
+skorpyFFM:
+  companies:
+  - as64475
+  - as58145
+  country: de
+  full_name: "Magnus Fr\xFChling"
+  rir_handle:
+  - MF16389-RIPE
+slh:
+  companies:
+  - as5413
+  country: gb
+  full_name: Sven Huster
+  rir_handle:
+  - SLH-RIPE
+smooth:
+  companies:
+  - as3222
+  country: fi
+  full_name: Lauri Turunen
+  rir_handle:
+  - LTU-RIPE
+sniffy:
+  companies:
+  - as51432
+  country: es
+  full_name: Ian Johannesen
+  rir_handle:
+  - IJ138-RIPE
+  - IJ415-RIPE
+snore:
+  companies:
+  - as8283
+  country: de
+  full_name: Sten Spans
+  rir_handle: []
+solis:
+  companies:
+  - as8767
+  country: de
+  full_name: Jan Dirnberger
+  rir_handle: []
+spork:
+  companies: []
+  country: us
+  full_name: joshua sahala
+  rir_handle: []
+stevoo:
+  companies: []
+  country: se
+  full_name: Stefan Larsson
+  rir_handle: []
+suom1:
+  companies:
+  - as20514
+  country: fi
+  full_name: "Markus Viitam\xE4ki"
+  rir_handle:
+  - MAVI-RIPE
+swaio:
+  companies:
+  - as31078
+  - as9033
+  country: de
+  full_name: Stefan Wahl
+  rir_handle:
+  - SWA7-RIPE
+  - ECIX1-RIPE
+syke:
+  companies: []
+  country: be
+  full_name: "H\xE4kkinen Esa"
+  rir_handle: []
+teun:
+  companies:
+  - as12859
+  country: nl
+  full_name: Teun Vink
+  rir_handle:
+  - TEUN-RIPE
+thevoke:
+  companies:
+  - as3322
+  - as9009
+  - as28747
+  - as6824
+  - as33970
+  - as29533
+  country: be
+  full_name: Michiel van Opstal
+  rir_handle:
+  - MVO4-RIPE
+thinker:
+  companies:
+  - as29449
+  - as47473
+  - as198013
+  country: it
+  full_name: Antonio Prado
+  rir_handle:
+  - AP7729-RIPE
+timr:
+  companies:
+  - as3265
+  country: nl
+  full_name: Tim Reinders
+  rir_handle:
+  - TFR999-RIPE
+tlabs:
+  companies:
+  - as43178
+  country: gb
+  full_name: Andy Wilson
+  rir_handle:
+  - AW752-RIPE
+tlund:
+  companies:
+  - as1257
+  - as31337
+  country: se
+  full_name: Tomas Lund
+  rir_handle:
+  - TL940-RIPE
+  - TLND-RIPE
+tore:
+  companies:
+  - as39029
+  country: 'no'
+  full_name: Tore Anderson
+  rir_handle:
+  - TA1353-RIPE
+tvk:
+  companies:
+  - as5524
+  country: nl
+  full_name: Tom van Klinken
+  rir_handle:
+  - TVKL-RIPE
+  - TVK-RIPE
+twain:
+  companies: []
+  country: fi
+  full_name: Tuukka Vainio
+  rir_handle:
+  - VAIN10-RIPE
+ukar:
+  companies:
+  - as44581
+  country: se
+  full_name: Ulrik Karrman
+  rir_handle: []
+vlahti:
+  companies:
+  - as49282
+  country: fi
+  full_name: Vesa Lahti
+  rir_handle: []
+wZ:
+  companies:
+  - as24751
+  country: fi
+  full_name: William Linden
+  rir_handle:
+  - WILI1-RIPE
+widell:
+  companies:
+  - as12381
+  - as2859
+  country: se
+  full_name: Fredrik Widell
+  rir_handle:
+  - WIDL2-RIPE
+will-h:
+  companies:
+  - as8330
+  - as30746
+  country: gb
+  full_name: Will Hargrave
+  rir_handle: []
+wire:
+  companies: []
+  country: sk
+  full_name: Robert Vojcik
+  rir_handle: []
+wprins:
+  companies:
+  - as15693
+  - as59889
+  country: ''
+  full_name: Wouter Prins
+  rir_handle:
+  - WP1086-RIPE
+yang:
+  companies:
+  - as199071
+  country: si
+  full_name: Jan Prunk
+  rir_handle:
+  - JP500-RIPE
 yeled:
   full_name: Charlie Allom
   country: gb
@@ -17,3 +2057,37 @@ yeled:
   companies:
     - github
     - evilforbeginners
+zfx:
+  companies:
+  - as197541
+  country: se
+  full_name: "Timh Bergstr\xF6m"
+  rir_handle:
+  - TB5052-RIPE
+ziga:
+  companies:
+  - as12472
+  - as30889
+  country: fr
+  full_name: Frederic Deletang
+  rir_handle:
+  - FD778-RIPE
+zin:
+  companies:
+  - as35382
+  country: fi
+  full_name: "Esa L\xE4hteenm\xE4ki"
+  rir_handle:
+  - EL3487-RIPE
+zyx:
+  companies:
+  - as34791
+  - as44815
+  - as198543
+  country: sk
+  full_name: Peter Mihalik
+  rir_handle:
+  - PM3469-RIPE
+  - PEM777-RIPE
+  - ZYX-RIPE
+
