@@ -10,3 +10,10 @@ casdr:
   country: nl
   companies:
     - breedband
+yeled:
+  full_name: Charlie Allom
+  country: gb
+  rir_handle: CA2736-RIPE
+  companies:
+    - github
+    - evilforbeginners
