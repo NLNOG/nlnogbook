@@ -1471,12 +1471,6 @@ matthew-2914:
   full_name: Matthew Whittaker-Williams
   rir_handle:
   - MW2861-RIPE
-maxdis:
-  companies:
-  - as5524
-  country: nl
-  full_name: Max Disteli
-  rir_handle: []
 medea61:
   companies:
   - as31424
@@ -1984,7 +1978,7 @@ tore:
   - TA1353-RIPE
 tvk:
   companies:
-  - as5524
+  - breedband
   country: nl
   full_name: Tom van Klinken
   rir_handle:
