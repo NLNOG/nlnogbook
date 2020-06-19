@@ -51,6 +51,9 @@ as12628:
 as12637:
   asn: 12637
   name: SEEWEB s.r.l.
+as12654:
+  asn: 12654
+  name: RIPE NCC (RIS project)
 as12657:
   asn: 12657
   name: BayCIX GmbH
@@ -132,6 +135,9 @@ as196752:
 as196944:
   asn: 196944
   name: NIC Hosting s.r.o.
+as197000:
+  asn: 197000
+  name: RIPE NCC (AuthDNS)
 as197032:
   asn: 197032
   name: TREX Regional Exchanges Oy
@@ -237,6 +243,9 @@ as25091:
 as251:
   asn: 251
   name: Denis Klimek
+as25152:
+  asn: 25152
+  name: RIPE NCC (K-Root)
 as25182:
   asn: 25182
   name: Stichting Nederlandse Publieke Omroep

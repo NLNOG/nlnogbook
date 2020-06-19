@@ -454,11 +454,13 @@ Robe:
   rir_handle: []
 Rodecker:
   companies:
-  - as16265
+  - as12654
+  - as197000
+  - as25152
   country: nl
   full_name: Martin Pels
   rir_handle:
-  - MP9136-RIPE
+  - MPLS-RIPE
 Rubra:
   companies:
   - as51088
