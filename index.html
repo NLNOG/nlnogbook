@@ -40,7 +40,7 @@
 <script>
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
     $(document).ready(function () {
-        var t = $('nlnogbook').DataTable( {"paging": false, "autoWidth": false} );
+        var t = $('#nlnogbook').DataTable( {"paging": false, "autoWidth": false} );
         $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
             var companies = jsyaml.load(companies_yml);
             $.get('data/users.yml?' + (new Date()).getTime(), function (users_yml) {
