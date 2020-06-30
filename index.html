@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.4.5/css/flag-icon.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
 </head>
 <body>
 <div class="container">
@@ -16,7 +20,7 @@
         community.</p>
     <p>You can add yourself to the list by creating a Pull Request on <a href="https://github.com/casdr/nlnogbook"
                                                                          target="_blank">GitHub</a></p>
-    <table class="table table-sm table-striped">
+    <table class="table table-sm table-striped" id="nlnogbook">
         <thead>
         <tr>
             <th>Nick</th>
@@ -33,11 +37,10 @@
     <p>Created by <a href="http://reuver.co/~cas">Cas de Reuver</a>. This page is not affiliated with Stichting NLNOG.
     </p>
 </div>
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
 <script>
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
     $(document).ready(function () {
+        var t = $('nlnogbook').DataTable( {"paging": false, "autoWidth": false} );
         $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
             var companies = jsyaml.load(companies_yml);
             $.get('data/users.yml?' + (new Date()).getTime(), function (users_yml) {
@@ -112,7 +115,8 @@
                     }
                     newUser.append(flag);
 
-                    $('#list').append(newUser);
+                    //$('#list').append(newUser);
+                    t.row.add( newUser ).draw( false );
                 });
             });
         })
