@@ -214,6 +214,7 @@ job:
   companies:
     - ntt
     - jobsnijders
+    - openbsd
 rinse:
   full_name: Rinse Kloek
   country: nl
