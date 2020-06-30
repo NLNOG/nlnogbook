@@ -38,6 +38,7 @@
     </p>
 </div>
 <script>
+    var timer;
     function getUrlVars()
     {
         var vars = {};
@@ -48,9 +49,12 @@
     }
     function fnSearchChange()
     {
-        history.pushState({
-            id: 'homepage'
-        }, 'NLNOGbook', '?q=' + $("#nlnogbook_filter :input").val() );
+        clearTimeout(timer);  //clear any running timeout on key up
+        timer = setTimeout(function() { //then give it a second to see if the user is finished
+            history.pushState({
+                id: 'homepage'
+            }, 'NLNOGbook', '?q=' + $("#nlnogbook_filter :input").val() );
+        }, 2500);
     }
 
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
