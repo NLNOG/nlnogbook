@@ -38,6 +38,15 @@
     </p>
 </div>
 <script>
+    function getUrlVars()
+    {
+        var vars = {};
+        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+            vars[key] = value;
+        });
+        return vars;
+    }
+
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
     $(document).ready(function () {
         var t = $('#nlnogbook').DataTable( {"paging": false, "autoWidth": false} );
@@ -120,6 +129,8 @@
                 });
             });
         })
+        var query = getUrlVars()['q'];
+        t.fnFilter( query, 2 );
     });
 </script>
 </body>
