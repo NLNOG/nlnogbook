@@ -187,3 +187,6 @@ FEN:
   name: FUJIFILM Europe B.V.
   asn: 206436
   site: https://www.fujifilm.eu/eu/about-us/company-profile
+openbsd:
+  name: OpenBSD
+  site: https://openbsd.org/
