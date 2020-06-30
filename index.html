@@ -46,6 +46,12 @@
         });
         return vars;
     }
+    function fnSearchChange()
+    {
+        history.pushState({
+            id: 'homepage'
+        }, 'NLNOGbook', '?q='$("#nlnogbook_filter :input").val() );
+    }
 
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
     $(document).ready(function () {
@@ -131,6 +137,7 @@
         })
         var query = getUrlVars()['q'];
         t.search( query );
+        $("#nlnogbook_filter :input").change(fnSearchChange);
     });
 </script>
 </body>
