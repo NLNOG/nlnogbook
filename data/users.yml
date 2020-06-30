@@ -59,7 +59,7 @@ raymon:
   country: nl
   rir_handle: RVDM88-RIPE
   companies:
-    - solcon
+    - Solcon
     - raymon
 MarkS-:
   full_name: Mark Scholten
@@ -220,7 +220,7 @@ rinse:
   country: nl
   rir_handle: RK10718-RIPE
   companies:
-    - solcon
+    - Solcon
 jurrian:
   full_name: Jurrian van Iersel
   rir_handle:
