@@ -52,6 +52,7 @@
         clearTimeout(timer);  //clear any running timeout on key up
         timer = setTimeout(function() { //then give it a second to see if the user is finished
             var searchterm = $("#nlnogbook_filter :input").val();
+            document.title = "NLNOGbook - Searching for: " + searchterm;
             history.pushState({
                 id: 'homepage'
             }, 'NLNOGbook - Searching for: ' +  searchterm, '?q=' +  searchterm);
