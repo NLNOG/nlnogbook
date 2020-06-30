@@ -50,7 +50,7 @@
     {
         history.pushState({
             id: 'homepage'
-        }, 'NLNOGbook', '?q='$("#nlnogbook_filter :input").val() );
+        }, 'NLNOGbook', '?q=' + $("#nlnogbook_filter :input").val() );
     }
 
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
