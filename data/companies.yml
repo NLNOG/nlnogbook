@@ -297,6 +297,10 @@ as28876:
 as29008:
   asn: 29008
   name: FAN Media GmbH
+as2914:
+  asn: 2914
+  name: NTT GIN
+  site: https://www.gin.ntt.net/
 as29154:
   asn: 29154
   name: Equinix (Finland) Oy
