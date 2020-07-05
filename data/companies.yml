@@ -190,3 +190,6 @@ FEN:
 openbsd:
   name: OpenBSD
   site: https://openbsd.org/
+peeringdb:
+  name: PeeringDB
+  site: https://peeringdb.com/

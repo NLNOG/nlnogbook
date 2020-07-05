@@ -215,6 +215,7 @@ job:
     - ntt
     - jobsnijders
     - openbsd
+    - peeringdb
 rinse:
   full_name: Rinse Kloek
   country: nl
