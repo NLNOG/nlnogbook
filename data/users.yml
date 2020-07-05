@@ -1252,6 +1252,7 @@ job:
   - as15562
   - as2914
   - openbsd
+  - peeringdb
   country: nl
   full_name: Job Snijders
   rir_handle:

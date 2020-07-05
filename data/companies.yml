@@ -804,7 +804,11 @@ as9145:
   name: EWE TEL GmbH
 openbsd:
   name: OpenBSD
+  site: https://openbsd.org/
 as199036:
   name: NLNOG RING LG
   asn: 199036
   site: https://ring.nlnog.net/
+peeringdb:
+  name: PeeringDB
+  site: https://peeringdb.com/
