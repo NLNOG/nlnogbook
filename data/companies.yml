@@ -802,4 +802,5 @@ as9143:
 as9145:
   asn: 9145
   name: EWE TEL GmbH
-
+openbsd:
+  name: OpenBSD
