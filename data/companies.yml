@@ -804,3 +804,7 @@ as9145:
   name: EWE TEL GmbH
 openbsd:
   name: OpenBSD
+as199036:
+  name: NLNOG RING LG
+  asn: 199036
+  site: https://ring.nlnog.net/
