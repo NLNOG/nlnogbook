@@ -156,9 +156,6 @@ as198013:
 as198543:
   asn: 198543
   name: MAC TV s.r.o.
-as199036:
-  asn: 199036
-  name: Job Snijders
 as199071:
   asn: 199071
   name: Jan Prunk K.D.
@@ -297,6 +294,10 @@ as28876:
 as29008:
   asn: 29008
   name: FAN Media GmbH
+as2914:
+  asn: 2914
+  name: NTT GIN
+  site: https://www.gin.ntt.net/
 as29154:
   asn: 29154
   name: Equinix (Finland) Oy
@@ -798,4 +799,13 @@ as9143:
 as9145:
   asn: 9145
   name: EWE TEL GmbH
-
+openbsd:
+  name: OpenBSD
+  site: https://openbsd.org/
+as199036:
+  name: NLNOG RING LG
+  asn: 199036
+  site: https://ring.nlnog.net/
+peeringdb:
+  name: PeeringDB
+  site: https://peeringdb.com/

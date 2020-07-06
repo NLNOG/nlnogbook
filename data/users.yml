@@ -515,7 +515,7 @@ Summalajnen:
   country: se
   full_name: Viktor Jakobsson
   rir_handle: []
-SwedeMIke:
+SwedeMike:
   companies:
   - as2914
   country: se
@@ -1251,6 +1251,8 @@ job:
   - as199036
   - as15562
   - as2914
+  - openbsd
+  - peeringdb
   country: nl
   full_name: Job Snijders
   rir_handle:
