@@ -291,3 +291,10 @@ Eguan:
   country: nl
   companies:
     - Solcon
+techwolf12:
+  full_name: Christiaan de Die le Clercq
+  country: nl
+  rir_handle:
+    - CDDL1-RIPE
+  companies:
+    - wolfined
