@@ -193,3 +193,7 @@ openbsd:
 peeringdb:
   name: PeeringDB
   site: https://peeringdb.com/
+wolfined:
+  name: Wolfined
+  asn: 206477
+  site: https://wolfined.com/
