@@ -193,6 +193,10 @@ openbsd:
 peeringdb:
   name: PeeringDB
   site: https://peeringdb.com/
+circleb:
+  name: Circle B B.V.
+  asn: 43861
+  site: https://circleb.eu
 wolfined:
   name: Wolfined
   asn: 206477
