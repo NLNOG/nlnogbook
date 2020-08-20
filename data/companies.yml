@@ -201,3 +201,7 @@ wolfined:
   name: Wolfined
   asn: 206477
   site: https://wolfined.com/
+freedominternet:
+  name: Freedom Internet B.V.
+  site: https://freedom.nl/
+  asn: 206238

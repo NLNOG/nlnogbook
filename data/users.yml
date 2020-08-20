@@ -303,3 +303,10 @@ techwolf12:
     - CDDL1-RIPE
   companies:
     - wolfined
+YWatchman:
+  full_name: Yvan Watchman
+  rir_handle:
+    - YW556-RIPE
+  country: nl
+  companies:
+    - freedominternet
