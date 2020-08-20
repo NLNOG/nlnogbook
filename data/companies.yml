@@ -197,3 +197,7 @@ circleb:
   name: Circle B B.V.
   asn: 43861
   site: https://circleb.eu
+wolfined:
+  name: Wolfined
+  asn: 206477
+  site: https://wolfined.com/
