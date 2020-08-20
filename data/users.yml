@@ -291,6 +291,11 @@ Eguan:
   country: nl
   companies:
     - Solcon
+Menno:
+  full_name: Menno Kortekaas
+  country: nl
+  companies:
+    - circleb
 techwolf12:
   full_name: Christiaan de Die le Clercq
   country: nl
