@@ -205,6 +205,10 @@ freedominternet:
   name: Freedom Internet B.V.
   site: https://freedom.nl/
   asn: 206238
+crossivity:
+  name: Crossivity bv
+  asn: 50601
+  site: https://www.crossivity.com
 asteroid:
   name: Asteriod International B.V.
   site: https://www.asteroidhq.com/
