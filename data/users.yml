@@ -310,6 +310,11 @@ YWatchman:
   country: nl
   companies:
     - freedominternet
+michael:
+  full_name: Michael Rave
+  country: nl
+  companies:
+    - crossivity
 andyd:
   full_name: Andy Davidson
   rir_handle:
@@ -317,10 +322,11 @@ andyd:
   country: gb
   companies:
     - asteroid
-[OH]:
+"[OH]":
   full_name: Remco van Mook
   rir_handle:
     - RVM145-RIPE
   country: nl
   companies:
     - asteroid
+
