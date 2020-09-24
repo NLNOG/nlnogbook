@@ -315,3 +315,18 @@ michael:
   country: nl
   companies:
     - crossivity
+andyd:
+  full_name: Andy Davidson
+  rir_handle:
+    - AJBD-RIPE
+  country: gb
+  companies:
+    - asteroid
+"[OH]":
+  full_name: Remco van Mook
+  rir_handle:
+    - RVM145-RIPE
+  country: nl
+  companies:
+    - asteroid
+
