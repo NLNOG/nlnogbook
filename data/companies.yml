@@ -205,3 +205,7 @@ freedominternet:
   name: Freedom Internet B.V.
   site: https://freedom.nl/
   asn: 206238
+asteroid:
+  name: Asteriod International B.V.
+  site: https://www.asteroidhq.com/
+  asn: 59964
