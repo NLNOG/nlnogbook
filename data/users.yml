@@ -2087,4 +2087,11 @@ zyx:
   - PM3469-RIPE
   - PEM777-RIPE
   - ZYX-RIPE
+techwolf12:
+  companies:
+    - as206477
+  full_name: "Christiaan de Die le Clercq"
+  country: nl
+  rir_handle:
+    - CDDL1-RIPE
 
