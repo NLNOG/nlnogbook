@@ -26,6 +26,14 @@ ddfr:
   name: Data Diensten Friesland
   asn: 35467
   site: https://ddfr.nl
+speedix: 
+  name: Speed-IX
+  asn: 41441
+  site: https://speed-ix.net
+serverius: 
+  name: Serverius BV.
+  asn: 50673
+  site: https://serverius.net
 sue:
   name: Sue B.V.
   site: https://sue.nl
