@@ -20,10 +20,9 @@ Fluor:
 Gnunix:
   full_name: Mathijs Hengst
   country: nl
-  rir_handle: MH18296-RIPE
+  rir_handle: MH18734-RIPE
   companies: 
-    - serverius
-    - speedix
+    - ddfr
 Habbie:
   full_name: Peter van Dijk
   country: nl
