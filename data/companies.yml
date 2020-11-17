@@ -815,3 +815,6 @@ as199036:
 peeringdb:
   name: PeeringDB
   site: https://peeringdb.com/
+as59715:
+  name: SBTAP
+  site: https://as59715.net
