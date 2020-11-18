@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.4.5/css/flag-icon.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
 </head>
 <body>
 <div class="container">
@@ -16,12 +20,12 @@
         community.</p>
     <p>You can add yourself to the list by creating a Pull Request on <a href="https://github.com/casdr/nlnogbook"
                                                                          target="_blank">GitHub</a></p>
-    <table class="table table-sm table-striped">
+    <table class="table table-sm table-striped" id="nlnogbook">
         <thead>
         <tr>
             <th>Nick</th>
             <th>Full name</th>
-            <th>Company</th>
+            <th>Organisation</th>
             <th>ASN</th>
             <th>RIR Handle</th>
             <th>Country</th>
@@ -30,14 +34,40 @@
         <tbody id="list"></tbody>
     </table>
     <hr/>
-    <p>Created by <a href="http://reuver.co/~cas">Cas de Reuver</a>. This page is not affiliated with Stichting NLNOG.
+    <p>Created by <a href="http://reuver.co/~cas" target="_blank">Cas de Reuver</a> and improved by <a href="https://martijn.gr/" target="_blank">Martijn Groenleer</a>. This page is not affiliated with Stichting NLNOG.
     </p>
 </div>
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/js-yaml@3.13.1/dist/js-yaml.min.js"></script>
 <script>
+    var timer;
+    function getUrlVars()
+    {
+        var vars = {};
+        var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+            vars[key] = value;
+        });
+        return vars;
+    }
+    function fnSearchChange()
+    {
+        clearTimeout(timer);  //clear any running timeout on key up
+        timer = setTimeout(function() { //then give it a second to see if the user is finished
+            var searchterm = $("#nlnogbook_filter :input").val();
+            document.title = "NLNOGbook - Searching for: " + searchterm;
+            history.pushState({
+                id: 'homepage'
+            }, 'NLNOGbook - Searching for: ' +  searchterm, '?q=' +  searchterm);
+        }, 1000);
+    }
+
     var defaults = {full_name: '', companies: [], country: '', rir_handle: []};
     $(document).ready(function () {
+        var t = $('#nlnogbook').DataTable( {
+            "paging": false, 
+            "autoWidth": false,
+            "language": {
+                "emptyTable": "<img src='ajax-loader-small.gif'>&nbsp; &nbsp; <i>One moment please while we are loading the NLNOGbook dataset..."
+            }
+        } );
         $.get('data/companies.yml?' + (new Date()).getTime(), function (companies_yml) {
             var companies = jsyaml.load(companies_yml);
             $.get('data/users.yml?' + (new Date()).getTime(), function (users_yml) {
@@ -112,10 +142,14 @@
                     }
                     newUser.append(flag);
 
-                    $('#list').append(newUser);
+                    //$('#list').append(newUser);
+                    t.row.add( newUser ).draw( false );
                 });
             });
         })
+        var query = getUrlVars()['q'];
+        t.search( query );
+        $("#nlnogbook_filter :input").keyup(fnSearchChange);
     });
 </script>
 </body>

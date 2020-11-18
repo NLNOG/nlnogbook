@@ -20,15 +20,19 @@ Fluor:
 Gnunix:
   full_name: Mathijs Hengst
   country: nl
-  rir_handle: MH18131-RIPE
+  rir_handle: MH18734-RIPE
   companies: 
-    - serverius
-    - speedix
+    - ddfr
 Habbie:
   full_name: Peter van Dijk
   country: nl
   companies:
     - powerdns
+mdav:
+  full_name: Marco Davids
+  country: nl
+  companies:
+    - sidn
 Jeeves_:
   full_name: Mark Schouten
   country: nl
@@ -54,7 +58,7 @@ raymon:
   country: nl
   rir_handle: RVDM88-RIPE
   companies:
-    - solcon
+    - Solcon
     - raymon
 MarkS-:
   full_name: Mark Scholten
@@ -143,7 +147,7 @@ Rodecker:
   full_name: Martin Pels
   country: nl
   companies:
-    - quanza
+    - ripencc
     - nlnogring
 Rubra:
   full_name: Erik Bais
@@ -202,3 +206,130 @@ Rock-Y:
   country: nl
   companies:
     - breedband
+Natha:
+  full_name: Nathalie Trenaman
+  country: nl
+  companies:
+    - ripencc
+job:
+  full_name: Job Snijders
+  country: nl
+  rir_handle: JWJS1-RIPE
+  companies:
+    - ntt
+    - jobsnijders
+    - openbsd
+    - peeringdb
+rinse:
+  full_name: Rinse Kloek
+  country: nl
+  rir_handle: RK10718-RIPE
+  companies:
+    - Solcon
+jurrian:
+  full_name: Jurrian van Iersel
+  rir_handle:
+    - JVI-RIPE
+  country: nl
+  companies:
+    - coloclue
+TheHog:
+  full_name: Igor Ybema
+  rir_handle:
+    - IY47-RIPE
+  country: nl
+  companies:
+    - ccv
+tw:
+  full_name: Remco van Zuijlen
+  rir_handle:
+    - RZ2757-RIPE
+    - RVZ108-RIPE
+  country: nl
+  companies:
+    - zuijlen
+    - xs4all
+klaver:
+  full_name: Michiel Klaver
+  rir_handle:
+    - KLVR4-RIPE
+  country: nl
+  companies:
+    - klaver
+    - proxy
+wedwards:
+  full_name: William Edwards
+  rir_handle:
+    - WDE4-RIPE
+  country: nl
+  companies:
+    - cyberfusion
+alarig:
+  full_name: Alarig Le Lay
+  rir_handle:
+    - ALL75-RIPE
+    - ALL90-RIPE
+  country: fr
+  companies:
+    - alarig
+    - grifon
+ggmatth:
+  full_name: Glenn Mattheij
+  country: nl
+  companies:
+    - breedband    
+Michael_wd6:
+  full_name: Michaël Jonkers
+  country: nl
+  rir_handle:
+    - MJ84126-RIPE
+  companies:
+     - WD6.net
+Martijn:
+  full_name: Martijn Groenleer
+  country: nl
+  companies:
+     - FEN
+Eguan:
+  full_name: Marcel de Jager
+  country: nl
+  companies:
+    - Solcon
+Menno:
+  full_name: Menno Kortekaas
+  country: nl
+  companies:
+    - circleb
+techwolf12:
+  full_name: Christiaan de Die le Clercq
+  country: nl
+  rir_handle:
+    - CDDL1-RIPE
+  companies:
+    - wolfined
+YWatchman:
+  full_name: Yvan Watchman
+  rir_handle:
+    - YW556-RIPE
+  country: nl
+  companies:
+    - freedominternet
+michael:
+  full_name: Michael Rave
+  country: nl
+  companies:
+    - crossivity
+andyd:
+  full_name: Andy Davidson
+  rir_handle:
+    - AJBD-RIPE
+  country: gb
+  companies:
+    - asteroid
+"[OH]":
+  full_name: Remco van Mook
+  rir_handle:
+    - RVM145-RIPE
+  country: nl
+  companies:
+    - asteroid

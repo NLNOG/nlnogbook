@@ -22,14 +22,18 @@ ripencc:
   name: RIPE NCC
   asn: [ 3333, 25152, 197000, 12654 ]
   site: https://www.ripe.net/
-serverius: 
-  name: Serverius B.V.
-  asn: 50673
-  site: https://serverius.net/
-speedix:
+ddfr: 
+  name: Data Diensten Friesland
+  asn: 35467
+  site: https://ddfr.nl
+speedix: 
   name: Speed-IX
   asn: 41441
-  site: https://speed-ix.net/
+  site: https://speed-ix.net
+serverius: 
+  name: Serverius BV.
+  asn: 50673
+  site: https://serverius.net
 sue:
   name: Sue B.V.
   site: https://sue.nl
@@ -37,6 +41,10 @@ meanie:
   name: Meanie
   asn: [31019, 50026, 61385]
   site: http://www.meanie.nl
+sidn:
+  name: Stichting Internet Domeinregistratie Nederland
+  asn: [1140, 48283, 210004]
+  site: https://www.sidn.nl
 novoserve:
   name: Novoserve BV
   asn: [24875, 21159]
@@ -62,7 +70,7 @@ signet:
   name: Signet B.V.
   asn: [28878, 39700, 49685]
   site: https://www.signet.nl
-solcon:  
+Solcon:  
   name: Solcon Internetdiensten B.V.
   asn: 12414
   site: https://www.solcon.nl
@@ -136,3 +144,76 @@ interconnectservices:
   name: Interconnect Services B.V.
   asn: 9150
   site: https://www.interconnect.nl
+jobsnijders:
+  name: Job Snijders
+  asn: 15562
+  site: http://instituut.net/~job
+ntt:
+  name: NTT
+  asn: 2914
+  site: https://us.ntt.net
+ccv:
+  name: CCV
+  asn: 48520
+  site: https:/www.ccv.eu
+xs4all:
+  name: XS4ALL
+  asn: 3265
+  site: https://www.xs4all.nl
+zuijlen:
+  name: Remco van Zuijlen
+  asn: 208717
+  site: https://as208717.net
+klaver:
+  name: Michiel Klaver
+  asn: 38970
+  site: https://klaver.it
+proxy:
+  name: Proxy B.V.
+  site: https://proxy.nl
+cyberfusion:
+  name: Cyberfusion
+  asn: 204983
+  site: https://cyberfusion.nl
+grifon:
+  name: grifon
+  asn: 204092
+  site: https://grifon.fr
+alarig:
+  name: alarig
+  asn: 208627
+  site: https://www.swordarmor.fr
+WD6.net:
+  name: wd6.net
+  asn: 20495
+  site: https://www.wd6.net
+FEN:
+  name: FUJIFILM Europe B.V.
+  asn: 206436
+  site: https://www.fujifilm.eu/eu/about-us/company-profile
+openbsd:
+  name: OpenBSD
+  site: https://openbsd.org/
+peeringdb:
+  name: PeeringDB
+  site: https://peeringdb.com/
+circleb:
+  name: Circle B B.V.
+  asn: 43861
+  site: https://circleb.eu
+wolfined:
+  name: Wolfined
+  asn: 206477
+  site: https://wolfined.com/
+freedominternet:
+  name: Freedom Internet B.V.
+  site: https://freedom.nl/
+  asn: 206238
+crossivity:
+  name: Crossivity bv
+  asn: 50601
+  site: https://www.crossivity.com
+asteroid:
+  name: Asteriod International B.V.
+  site: https://www.asteroidhq.com/
+  asn: 59964
