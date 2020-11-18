@@ -201,6 +201,11 @@ Rock-Y:
   country: nl
   companies:
     - interconnectservices
+ gkwaad:
+  full_name: Gijs Kwaad
+  country: nl
+  companies:
+    - breedband
 Natha:
   full_name: Nathalie Trenaman
   country: nl
@@ -328,4 +333,3 @@ andyd:
   country: nl
   companies:
     - asteroid
-
