@@ -4,6 +4,7 @@ casdr:
   country: nl
   companies:
     - breedband
+    - team.blue
 Cybertinus:
   full_name: Tijn Buijs
   country: nl
