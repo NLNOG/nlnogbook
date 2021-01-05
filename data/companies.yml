@@ -1,4 +1,8 @@
 ---
+fastly:
+  Name: Fastly
+  asn: 54113
+  site: https://www.fastly.com
 breedband:
   name: Breedband B.V.
   asn: 5524
