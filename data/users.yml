@@ -334,3 +334,10 @@ andyd:
   country: nl
   companies:
     - asteroid
+jeroenb:
+  full_name: Jeroen Bulten
+  rir_handle:
+    - JB18540-RIPE
+  country: nl
+  companies:
+    - sidn
