@@ -7,6 +7,10 @@ breedband:
   name: Breedband B.V.
   asn: 5524
   site: https://breedband.nl
+embark:
+  name: Embark Studios
+  asn: 58317
+  site: https://www.embark-studios.com
 evilforbeginners:
   name: evilforbeginners
   asn:
