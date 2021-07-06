@@ -2092,4 +2092,10 @@ techwolf12:
   country: nl
   rir_handle:
     - CDDL1-RIPE
-
+Michael_wd6:
+  companies:
+  - as20495
+  country: nl
+  full_name: Michaël Jonkers
+  rir_handle:
+  - MJ84126-RIPE
