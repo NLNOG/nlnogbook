@@ -331,3 +331,10 @@ andyd:
   country: nl
   companies:
     - asteroid
+robje:
+  full_name: Rob J. Epping
+  country: nl
+  rir_handle:
+    - RE449-RIPE
+  companies:
+    - bit
