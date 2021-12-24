@@ -21,7 +21,7 @@ Gnunix:
   full_name: Mathijs Hengst
   country: nl
   rir_handle: MH18734-RIPE
-  companies: 
+  companies:
     - ddfr
 Habbie:
   full_name: Peter van Dijk
@@ -160,7 +160,7 @@ Skinza:
   rir_handle: BVEL-RIPE
   country: nl
   companies:
-  - i3D.net
+    - i3D.net
 florian:
   full_name: Florian Hibler
   rir_handle: FH-RIPE
@@ -277,19 +277,19 @@ ggmatth:
   full_name: Glenn Mattheij
   country: nl
   companies:
-    - breedband    
+    - breedband
 Michael_wd6:
   full_name: Michaël Jonkers
   country: nl
   rir_handle:
     - MJ84126-RIPE
   companies:
-     - WD6.net
+    - WD6.net
 Martijn:
   full_name: Martijn Groenleer
   country: nl
   companies:
-     - FEN
+    - FEN
 Eguan:
   full_name: Marcel de Jager
   country: nl
