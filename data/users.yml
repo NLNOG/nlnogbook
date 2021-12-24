@@ -340,3 +340,9 @@ robje:
     - RE449-RIPE
   companies:
     - bit
+AK47:
+  full_name: Arjan Koopen
+  country: nl
+  companies:
+  - i3D.net
+  - eventinfra
