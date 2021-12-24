@@ -344,5 +344,5 @@ AK47:
   full_name: Arjan Koopen
   country: nl
   companies:
-  - i3D.net
-  - eventinfra
+    - i3D.net
+    - eventinfra
