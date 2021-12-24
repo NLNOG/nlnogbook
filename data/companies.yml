@@ -224,7 +224,7 @@ i3D.net:
   name: i3D.net B.V.
   site: https://www.i3d.net/
   asn: 49544
- eventinfra:
+eventinfra:
   name: Stichting EventInfra
   site: https://eventinfra.org
   asn: 64404
