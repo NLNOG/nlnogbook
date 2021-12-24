@@ -20,20 +20,20 @@ tuxis:
   site: https://tuxis.nl/
 ripencc:
   name: RIPE NCC
-  asn: [ 3333, 25152, 197000, 12654 ]
+  asn: [3333, 25152, 197000, 12654]
   site: https://www.ripe.net/
-ddfr: 
+ddfr:
   name: Data Diensten Friesland
   asn: 35467
   site: https://ddfr.nl
 exonet:
   name: Exonet B.V.
   site: https://exonet.nl
-speedix: 
+speedix:
   name: Speed-IX
   asn: 41441
   site: https://speed-ix.net
-serverius: 
+serverius:
   name: Serverius BV.
   asn: 50673
   site: https://serverius.net
@@ -69,26 +69,26 @@ newvm:
   name: NewVM B.V.
   asn: 201401
   site: https://newvm.nl
-signet:  
+signet:
   name: Signet B.V.
   asn: [28878, 39700, 49685]
   site: https://www.signet.nl
-Solcon:  
+Solcon:
   name: Solcon Internetdiensten B.V.
   asn: 12414
   site: https://www.solcon.nl
 raymon:
   name: Raymon
   asn: 201723
-proserve:  
+proserve:
   name: Proserve B.V.
   asn: 21155
   site: https://www.proserve.nl
-cloudvps:  
+cloudvps:
   name: Cloudvps B.V.
   asn: 35470
   site: https://www.cloudvps.nl
-team.blue:  
+team.blue:
   name: team.blue
   site: https://team.blue
 cloudbear:
@@ -224,7 +224,7 @@ i3D.net:
   name: i3D.net B.V.
   site: https://www.i3d.net/
   asn: 49544
- eventinfra:
+eventinfra:
   name: Stichting EventInfra
   site: https://eventinfra.org
   asn: 64404
