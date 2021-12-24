@@ -65,7 +65,7 @@ phyxia:
 boxedit:
   name: Boxed IT Ltd.
   asn: 50156
-newvm:  
+newvm:
   name: NewVM B.V.
   asn: 201401
   site: https://newvm.nl
