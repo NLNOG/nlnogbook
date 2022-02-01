@@ -228,3 +228,7 @@ eventinfra:
   name: Stichting EventInfra
   site: https://eventinfra.org
   asn: 64404
+uniserver:
+  name: Uniserver B.V.
+  site: https://www.uniserver.nl
+  asn: [31617, 25542]
