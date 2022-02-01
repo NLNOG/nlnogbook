@@ -228,3 +228,6 @@ eventinfra:
   name: Stichting EventInfra
   site: https://eventinfra.org
   asn: 64404
+nivo:
+  name: Nivo
+  site: https://nivo.nl
