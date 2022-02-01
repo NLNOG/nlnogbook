@@ -346,3 +346,10 @@ AK47:
   companies:
     - i3D.net
     - eventinfra
+Siekman:
+  full_name: Jouke Siekman
+  country: nl
+  rir_handle:
+    - JS21766-RIPE
+  companies:
+    - x2com
