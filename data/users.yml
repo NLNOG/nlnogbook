@@ -83,11 +83,6 @@ mv^:
   full_name: Martin de Vries
   rir_handle: MV
   country: nl
-  companies:
-    - signet
-    - proserve
-    - cloudvps
-    - team.blue
 teun:
   full_name: Teun Vink
   rir_handle: TEUN-RIPE
