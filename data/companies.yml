@@ -232,3 +232,8 @@ uniserver:
   name: Uniserver B.V.
   site: https://www.uniserver.nl
   asn: [31617, 25542]
+
+
+:
+  name: Nivo
+  site: https://nivo.nl
