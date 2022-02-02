@@ -356,4 +356,5 @@ Siekman:
 barreljan:
   full_name: Bartjan Hoogenbosch
   country: nl
-  companies: uniserver
+  companies:
+    - uniserver
