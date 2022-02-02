@@ -353,3 +353,7 @@ Siekman:
     - JS21766-RIPE
   companies:
     - x2com
+barreljan:
+  full_name: Bartjan Hoogenbosch
+  country: nl
+  companies: uniserver
