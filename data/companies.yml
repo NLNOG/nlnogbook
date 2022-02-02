@@ -235,3 +235,7 @@ uniserver:
 nivo:
   name: Nivo
   site: https://nivo.nl
+x2com:
+  name: X2Com B.V
+  site: https://x2com.nl
+  asn: 58075
