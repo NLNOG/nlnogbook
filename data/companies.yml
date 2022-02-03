@@ -239,3 +239,7 @@ x2com:
   name: X2Com B.V
   site: https://x2com.nl
   asn: 58075
+dcspine:
+  name: Eurofiber Spine B.V.
+  site: https://www.dcspine.nl
+  asn: [205185, 64495]
