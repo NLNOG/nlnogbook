@@ -239,3 +239,11 @@ x2com:
   name: X2Com B.V
   site: https://x2com.nl
   asn: 58075
+swf:
+  name: Gemeente Súdwest-Fryslân
+  site: https://sudwestfryslan.nl
+  asn: 207894
+bajansen:
+  name: BAJansen
+  site: https://benno.frl
+  asn: 211840
