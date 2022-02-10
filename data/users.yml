@@ -353,3 +353,11 @@ barreljan:
   country: nl
   companies:
     - uniserver
+bernardus:
+  full_name: Bernardus Jansen
+  rir_handle:
+    - BASW1-RIPE
+  country: nl
+  companies:
+    - swf
+    - bajansen
