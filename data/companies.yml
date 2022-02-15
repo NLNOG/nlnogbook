@@ -247,3 +247,7 @@ bajansen:
   name: BAJansen
   site: https://benno.frl
   asn: 211840
+dcspine:
+  name: Eurofiber Spine B.V.
+  site: https://www.dcspine.nl
+  asn: [205185, 64495]
