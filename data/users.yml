@@ -3,7 +3,9 @@ casdr:
   full_name: Cas de Reuver
   country: nl
   companies:
-    - exonet
+    - team.blue
+    - breedband
+    - signet
 Cybertinus:
   full_name: Tijn Buijs
   country: nl
