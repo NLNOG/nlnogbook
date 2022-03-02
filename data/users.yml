@@ -363,3 +363,8 @@ bernardus:
   companies:
     - swf
     - bajansen
+vnode:
+  full_name: Rogier Krieger
+  country: nl
+  companies:
+    - bytepark
