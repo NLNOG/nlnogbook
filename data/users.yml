@@ -369,3 +369,9 @@ vnode:
   country: nl
   companies:
     - bytepark
+wouter0100:
+  full_name: Wouter van Os
+  rir_handle: WVO56-RIPE
+  country: nl
+  companies:
+    - cloudbear
