@@ -382,3 +382,10 @@ orap:
     - team.blue
     - breedband
     - signet
+philoux:
+  full_name: Desmond van der Winden
+  rir_handle: AA35882-RIPE
+  country: nl
+  companies:
+    - serverion
+    - des capital
