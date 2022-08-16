@@ -262,3 +262,7 @@ serverion:
   name: Serverion B.V.
   site: https://www.serverion.com/
   asn: 213035
+surf:
+  name: SURF B.V.
+  site: https://www.surf.nl/
+  asn: 1103

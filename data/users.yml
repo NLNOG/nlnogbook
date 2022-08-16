@@ -389,3 +389,9 @@ philoux:
   companies:
     - serverion
     - des capital
+joachimo:
+  full_name: Joachim Opdenakker
+  rir_handle: JO5775-RIPE
+  country: be
+  companies:
+    - surf
