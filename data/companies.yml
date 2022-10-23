@@ -7,6 +7,14 @@ breedband:
   name: Breedband B.V.
   asn: 5524
   site: https://breedband.nl
+businessconnect:
+  name: BusinessConnect B.V.
+  asn: 15693
+  site: https://businessconnect.nl
+kpn:
+  name: KPN B.V.
+  asn: 1136
+  site: https://kpn.com
 coloclue:
   name: Netwerkvereniging ColoClue
   asn: 8283
