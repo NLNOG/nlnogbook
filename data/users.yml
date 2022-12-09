@@ -375,6 +375,13 @@ wouter0100:
   country: nl
   companies:
     - cloudbear
+wprins:
+  full_name: Wouter Prins
+  rir_handle: WP1086-RIPE
+  country: nl
+  companies:
+    - businessconnect
+    - kpn
 orap:
   full_name: Ole Rap
   country: nl
