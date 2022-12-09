@@ -273,3 +273,6 @@ bittenbytes:
 Juniper:
   name: Juniper Networks
   site: https://www.juniper.net/
+spl:
+  name: SPL B.V.
+  site: https://www.spl.nl
