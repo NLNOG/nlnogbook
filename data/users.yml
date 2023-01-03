@@ -410,3 +410,8 @@ TB:
   rir_handle: MCTB2-RIPE
   companies:
     - juniper
+IThorst:
+  full_name: Imro ter Horst
+  country: nl
+  companies:
+    - x2com
