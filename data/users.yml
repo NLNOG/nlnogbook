@@ -347,10 +347,6 @@ AK47:
 Siekman:
   full_name: Jouke Siekman
   country: nl
-  rir_handle:
-    - JS21766-RIPE
-  companies:
-    - x2com
 barreljan:
   full_name: Bartjan Hoogenbosch
   country: nl
