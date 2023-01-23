@@ -91,6 +91,7 @@ teun:
   country: nl
   companies:
     - bit
+    - nlnogring
 marlinc:
   full_name: Marlin Cremers
   rir_handle: MC30802-RIPE
