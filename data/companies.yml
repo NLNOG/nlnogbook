@@ -1,7 +1,7 @@
 ---
 bit:
   name: BIT
-  asn: 12859
+  asn: [12859, 200995]
   site: https://www.bit.nl/
 breedband:
   name: Breedband B.V.
