@@ -343,11 +343,15 @@ AK47:
 Siekman:
   full_name: Jouke Siekman
   country: nl
+  
 barreljan:
   full_name: Bartjan Hoogenbosch
+  rir_handle:
+    - BJH1984-RIPE
   country: nl
   companies:
     - uniserver
+
 bernardus:
   full_name: Bernardus Jansen
   rir_handle:
