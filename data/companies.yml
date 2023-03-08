@@ -284,3 +284,11 @@ Juniper:
 spl:
   name: SPL B.V.
   site: https://www.spl.nl
+ipng:
+  name: IPng Networks GmbH
+  site: https://ipng.ch/
+  asn: 8298
+google:
+  name: Google Inc
+  site: https://google.com/
+  asn: 15169

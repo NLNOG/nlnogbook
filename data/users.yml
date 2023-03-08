@@ -411,3 +411,11 @@ IThorst:
   country: nl
   companies:
     - x2com
+pim:
+  full_mame: Pim van Pelt
+  country: ch
+  rir_handle: PBVP1-RIPE
+  companies:
+    - ipng
+    - google
+    - coloclue
