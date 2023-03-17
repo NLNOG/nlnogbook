@@ -292,3 +292,7 @@ google:
   name: Google Inc
   site: https://google.com/
   asn: 15169
+netone:
+  name: NetOne NL
+  site: https://www.netone.nl
+  asn: 200132
