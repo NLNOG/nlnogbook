@@ -412,15 +412,16 @@ IThorst:
   companies:
     - x2com
 pim:
-  full_mame: Pim van Pelt
+  full_name: Pim van Pelt
   country: ch
   rir_handle: PBVP1-RIPE
   companies:
     - ipng
     - google
     - coloclue
+
 peter-paul:
-  full_mame: Peter-Paul Kurstjens
+  full_name: Peter-Paul Kurstjens
   country: nl
   rir_handle: PK3184-RIPE
   companies:
