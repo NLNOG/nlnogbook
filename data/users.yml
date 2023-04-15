@@ -397,6 +397,11 @@ joachimo:
   country: be
   companies:
     - surf
+VinylVader:
+  full_name: Max Mudde
+  country: nl
+  companies:
+    - surf
 bramw:
   full_name: Bram Wittendorp
   rir_handle: BW3944-RIPE
