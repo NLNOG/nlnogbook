@@ -265,6 +265,7 @@ bytepark:
   asn: 45009
 xyphenit:
   name: Xyphen IT
+  site: https://xyphen-it.nl/
   asn: 211588
 serverion:
   name: Serverion B.V.
@@ -296,3 +297,7 @@ netone:
   name: NetOne NL
   site: https://www.netone.nl
   asn: 200132
+soverin:
+  name: Soverin B.V.
+  site: https://soverin.net/
+  asn: 211993
