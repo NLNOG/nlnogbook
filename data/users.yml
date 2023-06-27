@@ -380,13 +380,11 @@ wprins:
   companies:
     - businessconnect
     - kpn
-orap:
+olerap:
   full_name: Ole Rap
   country: nl
   companies:
-    - team.blue
-    - breedband
-    - signet
+    - spl
 philoux:
   full_name: Desmond van der Winden
   rir_handle: AA35882-RIPE
