@@ -5,6 +5,7 @@ casdr:
   companies:
     - exonet
     - spl
+    - nlnogring
 Cybertinus:
   full_name: Tijn Buijs
   country: nl
