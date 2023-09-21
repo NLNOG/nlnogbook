@@ -123,13 +123,11 @@ Appel:
 pvanstam:
   full_name: Pim van Stam
   rir_handle:
-    - PVS288-RIPE
-    - STAM-RIPE
     - PvS71-RIPE
   country: nl
   companies:
+    - s3group
     - svsnet
-    - nbip
 Dimmu:
   full_name: Cliff Albert
   rir_handle:
