@@ -6,6 +6,7 @@ casdr:
     - exonet
     - spl
     - nlnogring
+    - blalabs
 Cybertinus:
   full_name: Tijn Buijs
   country: nl

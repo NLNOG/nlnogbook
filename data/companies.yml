@@ -308,3 +308,9 @@ svsnet:
 s3group:
   name: S3Group B.V.
   site: https://s3group.nl/
+blalabs:
+  name: BlaLabs
+  site: https://blalabs.io
+argoict:
+  name: ARGO-ICT
+  site: https://argo-ict.com
