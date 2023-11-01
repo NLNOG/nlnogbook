@@ -2,6 +2,7 @@
 casdr:
   full_name: Cas de Reuver
   country: nl
+  rir_handle: CDR178-RIPE
   companies:
     - exonet
     - spl
