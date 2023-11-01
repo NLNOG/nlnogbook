@@ -36,6 +36,7 @@ ddfr:
   site: https://ddfr.nl
 exonet:
   name: Exonet B.V.
+  asn: 216048
   site: https://exonet.nl
 speedix:
   name: Speed-IX
