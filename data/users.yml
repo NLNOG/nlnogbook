@@ -8,6 +8,7 @@ casdr:
     - spl
     - nlnogring
     - blalabs
+    - argoict
 Cybertinus:
   full_name: Tijn Buijs
   country: nl
