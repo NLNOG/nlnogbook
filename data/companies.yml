@@ -286,6 +286,7 @@ Juniper:
 spl:
   name: SPL B.V.
   site: https://www.spl.nl
+  asn: 44299
 ipng:
   name: IPng Networks GmbH
   site: https://ipng.ch/
