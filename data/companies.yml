@@ -315,3 +315,7 @@ blalabs:
 argoict:
   name: ARGO-ICT
   site: https://argo-ict.com
+stingalleman:
+  name: Sting Alleman
+  site: https://stingalleman.nl
+  asn: 216455

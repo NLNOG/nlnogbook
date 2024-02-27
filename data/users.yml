@@ -446,3 +446,10 @@ D0peX:
   country: nl
   companies:
     - interconnectservices
+stingalleman:
+  full_name: Sting Alleman
+  rir_handle:
+    - SA42494-RIPE
+  country: nl
+  companies:
+    - stingalleman
