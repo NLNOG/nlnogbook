@@ -453,3 +453,9 @@ stingalleman:
   country: nl
   companies:
     - stingalleman
+reulnl:
+  full_name: Raoul Brouns
+  rir_handle: RB48281-RIPE
+  country: nl
+  companies:
+    - raoulbrouns
