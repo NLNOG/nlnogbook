@@ -306,6 +306,7 @@ soverin:
 svsnet:
   name: SvSnet B.V.
   site: https://www.svsnet.nl/
+  asn: 216251
 s3group:
   name: S3Group B.V.
   site: https://s3group.nl/
