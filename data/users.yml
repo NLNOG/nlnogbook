@@ -459,3 +459,9 @@ reulnl:
   country: nl
   companies:
     - raoulbrouns
+jaap:
+  full_name: Jaap de Vos
+  country: nl
+  companies:
+    - stedin
+    - coloclue
