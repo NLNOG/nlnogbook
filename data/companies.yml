@@ -330,3 +330,4 @@ stedin:
 blackgate:
   name: BlackGATE Telecom
   site: https://www.blackgate.nl/
+  asn: 201290
