@@ -465,3 +465,8 @@ jaap:
   companies:
     - stedin
     - coloclue
+evharten:
+  full_name: Evert van Harten
+  country: nl
+  companies:
+    - blackgate
