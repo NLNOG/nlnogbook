@@ -331,3 +331,11 @@ blackgate:
   name: BlackGATE Telecom
   site: https://www.blackgate.nl/
   asn: 201290
+delta:
+  name: DELTA Fiber Nederland
+  site: https://www.deltafiber.nl/
+  asn: 15435
+kindes:
+  name: Kloek Internetdiensten en Software
+  site: https://www.kindes.nl
+  asn: 208241
