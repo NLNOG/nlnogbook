@@ -342,7 +342,7 @@ kindes:
 nlix:
   name: NLix
   site: https://www.nl-ix.net
-  asn: [24785,12871,20337,20562,34307,42604,43339,57409]
+  asn: [24785, 12871, 20337, 20562, 34307, 42604, 43339, 57409]
 peakfactory:
   name: PeakFactory B.V.
   site: https://peakfactory.com/

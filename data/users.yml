@@ -4,7 +4,6 @@ casdr:
   country: nl
   rir_handle: CDR178-RIPE
   companies:
-    - exonet
     - spl
     - nlnogring
     - blalabs
