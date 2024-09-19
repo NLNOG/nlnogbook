@@ -222,7 +222,8 @@ rinse:
   country: nl
   rir_handle: RK10718-RIPE
   companies:
-    - Solcon
+    - delta
+    - kindes
 jurrian:
   full_name: Jurrian van Iersel
   rir_handle:
