@@ -477,3 +477,8 @@ shaker:
   rir_handle: GA1234-RIPE
   companies:
     - nlix
+terrean:
+  full_name: Wouter van der Vaart
+  country: nl
+  companies:
+    - peakfactory
