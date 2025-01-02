@@ -347,3 +347,7 @@ peakfactory:
   name: PeakFactory B.V.
   site: https://peakfactory.com/
   asn: 49206
+npo:
+  name: NPO
+  site: https://npo.nl/
+  asn: 25182
