@@ -481,3 +481,10 @@ joshua:
   country: nl
   companies:
     - npo
+Rock-Y:
+  full_name: Bram van de Burgt
+  rir_handle: BVDB95-RIPE
+  country: nl
+  companies:
+    - team.blue
+    - signetbreedband
