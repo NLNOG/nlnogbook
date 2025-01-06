@@ -105,11 +105,7 @@ joris:
   full_name: Joris Cras
   rir_handle: JRS
   country: nl
-  companies:
-    - signet
-    - proserve
-    - cloudvps
-    - team.blue
+  companies: []
 Friek:
   full_name: Johan Mulder
   rir_handle: JOMU667
@@ -183,8 +179,7 @@ guur:
   full_name: Ruben van Staveren
   country: nl
   rir_handle: RVS14-RIPE
-  companies:
-    - proserve
+  companies: []
 sdktr:
   full_name: Stefan de Kooter
   country: nl
@@ -486,3 +481,10 @@ joshua:
   country: nl
   companies:
     - npo
+Rock-Y:
+  full_name: Bram van de Burgt
+  rir_handle: BVDB95-RIPE
+  country: nl
+  companies:
+    - team.blue
+    - signetbreedband
