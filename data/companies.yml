@@ -352,3 +352,7 @@ as215131:
   name: AS215131
   site: https://as215131.net
   asn: 215131
+cloudnetworks:
+  name: Cloud Networks
+  site: https://clnw.nl
+  asn: 208152
