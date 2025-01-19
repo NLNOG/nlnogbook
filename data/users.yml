@@ -84,6 +84,11 @@ jappert:
   country: nl
   companies:
     - newvm
+joeyboon:
+  full_name: Joey Boon
+  country: nl
+  companies:
+    - surf
 mv^:
   full_name: Martin de Vries
   rir_handle: MV
