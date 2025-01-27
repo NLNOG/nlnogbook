@@ -455,6 +455,7 @@ reulnl:
   rir_handle: RB48281-RIPE
   country: nl
   companies:
+    - nep
     - raoulbrouns
 jaap:
   full_name: Jaap de Vos
