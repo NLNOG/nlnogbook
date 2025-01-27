@@ -356,3 +356,7 @@ cloudnetworks:
   name: Cloud Networks
   site: https://clnw.nl
   asn: 208152
+nep:
+  name: NEP Media Solutions
+  site: https://nepworldwide.nl/
+  asn: 34756
