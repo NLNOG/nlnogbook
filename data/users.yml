@@ -492,3 +492,9 @@ Rock-Y:
     - as215131
     - team.blue
     - signetbreedband
+nl_bastiaan:
+  full_name: Bastiaan Brink
+  rir_handle: BB14465-RIPE
+  country: nl
+  companies:
+    - bastiaanbrink
