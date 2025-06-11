@@ -368,3 +368,7 @@ amsix:
   name: AMS-IX
   site: https://ams-ix.net
   asn: [1200, 6777]
+tngnet:
+  name: TNGNET B.V.
+  site: https://tngnet.com
+  asn: [39521, 47690, 213784]
