@@ -364,3 +364,7 @@ bastiaanbrink:
   name: Bastiaan Brink
   site: https://as215248.net
   asn: 215248
+amsix:
+  name: AMS-IX
+  site: https://ams-ix.net
+  asn: [1200, 6777]
