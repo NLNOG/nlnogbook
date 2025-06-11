@@ -503,3 +503,8 @@ netforce:
   rir_handle: EB4291-RIPE
   companies:
     - bit
+dthoonsen:
+  full_name: Dave Thoonsen
+  country: nl
+  companies:
+    - amsix
