@@ -497,3 +497,9 @@ nl_bastiaan:
   country: nl
   companies:
     - bastiaanbrink
+netforce:
+  full_name: Eelco Bel
+  country: nl
+  rir_handle: EB4291-RIPE
+  companies:
+    - bit
