@@ -450,6 +450,7 @@ stingalleman:
   country: nl
   companies:
     - stingalleman
+    - xyphenit
 reulnl:
   full_name: Raoul Brouns
   rir_handle: RB48281-RIPE
