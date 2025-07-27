@@ -514,3 +514,9 @@ jimmy:
   country: nl
   companies:
     - tngnet
+NHendriks:
+  full_name: Nicky Hendriks
+  country: nl
+  rir_handle: NH5144-RIPE
+  companies:
+    - coloclue
