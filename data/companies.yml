@@ -372,3 +372,7 @@ tngnet:
   name: TNGNET B.V.
   site: https://tngnet.com
   asn: [39521, 47690, 213784]
+buijsit:
+  name: BuijsIT
+  site: https://buijsit.nl
+  asn: AS213822
