@@ -519,3 +519,7 @@ NHendriks:
   rir_handle: NH5144-RIPE
   companies:
     - coloclue
+decramy:
+  full_name: Tjerk Jan Vonk
+  country: nl
+  rir_handle: TJV9-RIPE
