@@ -406,6 +406,7 @@ bramw:
   rir_handle: BW3944-RIPE
   country: nl
   companies:
+    - surf
     - bittenbytes
 TB:
   full_name: Marcel ten Berg
