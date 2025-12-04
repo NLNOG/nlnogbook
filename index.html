@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="List of participants of NLNOG">
-    <meta name="author" content="Cas de Reuver">
+    <meta name="author" content="Stichting NLNOG">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.4.5/css/flag-icon.min.css">
@@ -109,7 +109,7 @@
                                 companyCounter = 0;
                                 for (var asn in company.asn) {
                                     var asn = company.asn[asn];
-                                    asnStr.append('<a href="https://apps.db.ripe.net/db-web-ui/lookup?source=ripe&key=AS' + asn + '&type=aut-num" target="_blank">AS' + asn + '</a><br />');
+                                    asnStr.append('<a href="https://peeringdb.com/asn/' + asn + '" target="_blank">AS' + asn + '</a><br />');
                                     if (companyCounter > 0) {
                                         companyStr.append('<br />');
                                     }

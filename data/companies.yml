@@ -129,6 +129,8 @@ quanza:
 nlnogring:
   name: NLNOG RING
   site: https://ring.nlnog.net/
+  asn:
+    - 199036
 globale-dc:
   name: Global-e Datacenter
   asn: 39591
