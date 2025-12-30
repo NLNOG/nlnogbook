@@ -524,3 +524,8 @@ decramy:
   full_name: Tjerk Jan Vonk
   country: nl
   rir_handle: TJV9-RIPE
+jessetorrenga:
+  full_name: Jesse Torrenga
+  country: nl
+  companies:
+    - cloudnetworks
