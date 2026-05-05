@@ -51,7 +51,7 @@ meanie:
   site: http://www.meanie.nl
 sidn:
   name: Stichting Internet Domeinregistratie Nederland
-  asn: [1140, 48283, 210004]
+  asn: [1140, 48283, 210004, 215088]
   site: https://www.sidn.nl
 novoserve:
   name: Novoserve BV
