@@ -378,3 +378,7 @@ buijsit:
   name: BuijsIT
   site: https://buijsit.nl
   asn: 213822
+kliksafe:
+  name: Kliksafe
+  site: https://kliksafe.nl
+  asn: 208033
