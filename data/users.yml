@@ -257,6 +257,12 @@ wedwards:
   country: nl
   companies:
     - cyberfusion
+altf4:
+  full_name: Arnold Dechamps
+  rir_handle:
+    - AD15135-RIPE
+    - AD18207-RIPE
+  country: be
 alarig:
   full_name: Alarig Le Lay
   rir_handle:
