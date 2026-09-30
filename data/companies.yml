@@ -382,3 +382,7 @@ kliksafe:
   name: Kliksafe
   site: https://kliksafe.nl
   asn: 208033
+fropnet:
+  name: fropnet
+  site: https://fropnet.nl
+  asn: 219265
