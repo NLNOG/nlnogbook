@@ -386,3 +386,7 @@ fropnet:
   name: fropnet
   site: https://fropnet.nl
   asn: 219265
+siekman:
+  name: siekman
+  site: https://siekman.io
+  asn: 218506
