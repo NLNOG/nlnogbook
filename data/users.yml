@@ -529,6 +529,12 @@ NHendriks:
   rir_handle: NH5144-RIPE
   companies:
     - coloclue
+fexxio:
+  full_name: Cedric Hoogendoorn
+  country: nl
+  rir_handle: FEXX10-RIPE
+  companies:
+    - fexxio
 decramy:
   full_name: Tjerk Jan Vonk
   country: nl

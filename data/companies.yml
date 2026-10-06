@@ -390,3 +390,7 @@ siekman:
   name: siekman
   site: https://siekman.io
   asn: 218506
+fexxio:
+  name: Fexxio Digital
+  site: https://fexxio.nl
+  asn: 210320
