@@ -526,9 +526,10 @@ jimmy:
 NHendriks:
   full_name: Nicky Hendriks
   country: nl
-  rir_handle: NH5144-RIPE
+  rir_handle: XPED
   companies:
     - coloclue
+    - expeditioner
 fexxio:
   full_name: Cedric Hoogendoorn
   country: nl
