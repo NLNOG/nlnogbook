@@ -394,3 +394,7 @@ fexxio:
   name: Fexxio Digital
   site: https://fexxio.nl
   asn: 210320
+expeditioner:
+  name: Expeditioner
+  site: https://expeditioner.network
+  asn: 218836
