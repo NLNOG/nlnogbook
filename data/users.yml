@@ -553,3 +553,10 @@ henkjan:
   country: nl
   companies:
     - kliksafe
+mitchell:
+  full_name: Mitchell van der Velden
+  rir_handle: MVDV211-RIPE
+  country: nl
+  companies:
+    - mitchell
+    - kmmgroep
