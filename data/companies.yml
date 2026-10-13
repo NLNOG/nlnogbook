@@ -398,3 +398,10 @@ expeditioner:
   name: Expeditioner
   site: https://expeditioner.network
   asn: 218836
+mitchell:
+  name: Mitchell van der Velden
+  asn: 214810
+kmmgroep:
+  name: KMM Groep B.V.
+  site: https://kmmgroep.nl
+  asn: 214836
